@@ -6,7 +6,7 @@
 
 Plugin Index with label `Tool`
 
-Plugin Amount: 52
+Plugin Amount: 53
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -61,5 +61,6 @@ Plugin Amount: 52
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/03/19 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2024/03/09 | [`Tool`](/labels/tool/readme.md) |
 | [Whisper](/plugins/whisper/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Send some private message to others in a faster way.(Vanilla feature supplements) | 2023/02/20 | [`Tool`](/labels/tool/readme.md) |
+| [World Eater Manage](/plugins/world_eater_manage/readme.md) | [FRUITS_CANDY](https://github.com/FRUITS-CANDY), [Bexerlmao](https://github.com/Bexerlmao) | A plugin designed for managing the World Eater on the vanilla server | 2024/03/28 | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Ye_announcement](/plugins/ye_announcement/readme.md) | [XiaoYeYa](https://github.com/XiaoYeYa) | Announce players when they join the game | 2024/03/27 | [`Tool`](/labels/tool/readme.md) |
 

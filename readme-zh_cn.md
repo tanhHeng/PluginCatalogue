@@ -13,7 +13,7 @@
 
 -------
 
-插件数量: 115
+插件数量: 116
 
 | 插件名 | 作者 | 描述 | 最近更新 | 标签 |
 | --- | --- | --- | --- | --- |
@@ -131,5 +131,6 @@
 | [Whisper](/plugins/whisper/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | （原版功能扩展）更快速地对一群人说悄悄话 | 2023/02/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Wiki Request](/plugins/wiki_request/readme-zh_cn.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | 一个用来查MediaWiki的插件 | 2021/08/26 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [World Copier](/plugins/world_copier/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 同步生存服和镜像服 | 2022/04/03 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [World Eater Manage](/plugins/world_eater_manage/readme-zh_cn.md) | [FRUITS_CANDY](https://github.com/FRUITS-CANDY), [Bexerlmao](https://github.com/Bexerlmao) | 一个为原版服务器设计的世吞假人管理插件 | 2024/03/28 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Ye_announcement](/plugins/ye_announcement/readme-zh_cn.md) | [XiaoYeYa](https://github.com/XiaoYeYa) | 当玩家加入游戏时向其发公告 | 2024/03/27 | [`工具`](/labels/tool/readme-zh_cn.md) |
 
