@@ -1,0 +1,47 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"65caa5fb8d7dd82ef75bf56033bf9208763f6aafac02f39dae43bfa50e448058\"",
+      "data": "H4sIAHTyBWYC/+1XXW/aMBT9K1OeC05CgIA0VVXppFaDbV27j5YpchInuHXiyHZABfHfd+2Ej1KtVVF5mfoSiHPvOTfn2sfO7cIqBbP6H6yJUoXsI4QL2kypmpRhM+IZEqTgEn3FUlKeN0ZkSkRjQOGuwIqgn1ywODiDvyIY4hynBBIYwZJI5Hh+z/G6rmsdfbAgnygZHJwLVUSasiwYx/EuZTUqD0O7OM5xRo4YDglb6homKmO7FWwx78OpcIqcpt20NT6NAXldhda5VBMuYHBhMZ7SXBN/urw+v/reOD0ZDX6vk3zPafW6fhfucx6TwAxaw8G3zo9fIxbdpfbwatgezdOWad8UKyyetM+MrrQsJRERzxXJlXm5Eq04jqcfPY2SihqnIjNNenZCaEiJdut/QdTd8IQzxmcAFLyWDK1TNzg0T/fFgdQF4moCTdUxZoKkVKo9CjNpC/MDYhokCcIKEr8eq06E0mY5VLUw66GCLEMZCVoomKN7FPkoXeNxkeKczvGeeJBuYMx6fX26SdP5sNjyfUSv8haoEHSKo4dlVUtE6BRk3xd0B0BjqoeCaJBriDZtoIoEOM7Mak4wk2T5eNVengX3s8GXz3cX98HQO/fOzqnBwWmg/UiHrB0Dmp0SFUA1GVVUTvTDDAO0hqyDn9pPY7oGiAVO1KoQuC8Eqb1pazASBLLjAOtIy7Vdr2G3Gq5/5XT7rtt3OzcaqihDBiX8K67Vb3dvNpsHRNwebreqOJDT7jktp9frbNx1NbKj+cm25hfJKYu2JZwZKmKoskpCo2Azi2LTVLNHQGReMrberMi7c78797tz/+fOXS+1YBWNi4LRyGiLeKSIakgF/pnVc0OZoNog4gp2rscc37c97cjQfnPUjXiZayO1X3Jgr+9UzloW8XNRtU+Hgs/gjYI10dueaFew1bEWPW+dyz/VJhZixt76c6KG3Ryv57Q4BE8Nu+EJefxgdg0yLrsd34Nr6Ebj0iO2ra8ursUal0liw4O2G/XgmrTwuPTtJIaEtuuDOH8BZ2cvutANAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAHXyBWYC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "159131996": {
+      "meta": {
+        "schema_version": 4,
+        "id": "world_eater_manage",
+        "name": "World Eater Manage",
+        "version": "1.0.0",
+        "link": "https://github.com/Passion-Never-Dissipate/World_Eater_Manage",
+        "authors": [
+          "Bexerlmao",
+          "FRUITS_CANDY"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin designed for managing the World Eater on the vanilla server",
+          "zh_cn": "一个为原版服务器设计的世吞假人管理插件"
+        }
+      },
+      "size": 18804,
+      "hash_md5": "f170bd33b041f3b211d54baf660024d5",
+      "hash_sha256": "2e3fc0bce9868f6277c9164deaf2cadf4a62b1be64039e66fee1a496f13b103a"
+    }
+  },
+  "repos_info": {
+    "etag": "\"ef27a2c57ffe477c031d9a501bc5d2fb73919a9424394b7f11a2f2fa7f72a01b\"",
+    "data": "H4sIAHXyBWYC/+2Z62/bNhDA/5XAX5dEfts1UHTDOgQY+giGbgWyDAIlnS3WFKmRlLNE8P++O+phyUuzppa+5YtsHcnf8XE8Hk/5gEeD1dliMRvOprPl8vxsIFUEvpMOfvO3m7cf3335dev/NKAilgDJPystIv8XZkH775lkG6DSdSaEX1W5ZsZwJS8+wA70xVuObynW9x5vmmq+QxE2XDNhACXqToLG93wg1IbLJ5DU3nV3NJ++Wk7nr+btQXx0g/g5+mMCbhAMNTHtZ1pQaWxtalaeV0jN5YbbOAsyAzpU0oK0l6FKvMyr4W92r6eE2egSVGgh0TEy5SWuYCDTeE8MIraJOO5Wo/0TLddKCHWHeP+ELng15YDkctMBEim5p2yMS07V9276uLGnddcRcveDa+CgBtdDQ3QStmRgh8kC97mnIVUFPQtMqHlqsdlpXW+RCK30hkn+wE5HI8kRqdenkRyBUCiXJ65Vgcg9t8/D+33RwxD4DlerA/4Ri/D2PnWO6GNjat0qcgs+ixLnU5y32X/33vuKN4ugXl3i3WZTGA7pOWb0nOBzNnm1vs0W4+nyNpsvhhFKxmyEz/kcJcsgAHqSZDFfTqnVaI6l0xHKZ8PpgiQBchZFnekQS+eTaEzy9bzYwHrb8KdPz65b62eOkhT836o9l+s5KNG3cN85nJg5PSt/EaJ7YoHSzCrdubYWPG+9OuUWWNK5Ugd1h4lS3a+Og7rz1pgMvm3jPluJY5vaZcgsCcozox99B5dBbTYSoHMVNTj36gMw0EyGcfe6Km5e/itsjW26NzVWnDSBUEHncGzrOXDumZiVEYP1+xgHqSJuW5OGdS+aiHvQZHUP1uYGpJ21VXowqLFoeZ2rqrheXmkSTG4yLOpcVQ2uAr0NewDdx4hKcnFASKt5kPVzPhzYjfAy6GNQB/RxINuTqrQKtxCScNvD5Dlse8/2pIv203/0kaCP06jitg6+4rgti3o6bx9VXN6Be7F94nr5D1glrmY0ZRp6mFDCennAMNS/vLzMY2BF+JeA7sFRFVQXT+gwxltJ1wryiovBcsKsu6Ku3YAivLMKxaLOx1SDa2vsKexrWV+aCdG5HgdtqUm4AGOV7MEUanJLoVSWr3n4Tbf9Z+tswfM3hssQzpkQ57gLLA+pHZeb8qwOQPRwUBMVB8wSKC/6AlgPwUfFzb3yOhdBKtR9L265gXa+SgOWRj6zpGQ8HE8vhpOL8fDTaLEazVaz8Y3LB6bRY7WWVGu8WM0mN4WVm/hrlSar2eKmOt7KIeHf701O0BS4AMDEDdqPB9bq+axQoH13kjqpe7eTnaViYpVASv/LFK3hD/R/OWwHkaHKJM0/ie+YxfvTkbCKPl0e+t7GRXATM+MXfgvlVmdQylKtvkBoj6QHJ9oS3/EtP2ruwtxD7sY15ibM3MibJUUOptnRhGutquy2RF93OIeiRkPEsUC0RCoFWY6mPXQegjTgcvFbuHdGk4qLyeWw+Ung6sPvZ1cgQTNxdp0F2OjsXdHwbFdWNWn0T5ktv7p+VwGe3qilcuM1VR5y++/fhvNPV+LLzefZw82n7esB5fIY5ZzpcNyiozvMLDe+hSQV7e8MdxCUcaNPd3S1XuPV7++M69bcWJXykCb+z7/wbccND7jg1k1G6kZbZ8TKWWvM5pFdla8RrFkmrF/c0gmUMO6sKgWd8Hqp80ErWXle1LOsJSIf0uyu5oWtHsqFKGdi71JPSeoXG9eqLchqd6CFWZWQ+WIfLHddz/dH+emXjzIvH2VePsq8fJTp/6OMBHuHLrV1GjWzJJV8tP8X8BtZUsceAAA="
+  }
+}

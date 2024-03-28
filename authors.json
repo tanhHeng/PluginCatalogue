@@ -1,5 +1,5 @@
 {
-  "amount": 61,
+  "amount": 63,
   "authors": {
     "A-JiuA": {
       "name": "A-JiuA",
@@ -24,6 +24,10 @@
     "awaBlack": {
       "name": "awaBlack",
       "link": "https://github.com/Hi-awaBlack"
+    },
+    "Bexerlmao": {
+      "name": "Bexerlmao",
+      "link": "https://github.com/Bexerlmao"
     },
     "bzyyyyyyyy": {
       "name": "bzyyyyyyyy",
@@ -83,6 +87,10 @@
     },
     "FRUITS-CANDY": {
       "name": "FRUITS-CANDY",
+      "link": "https://github.com/FRUITS-CANDY"
+    },
+    "FRUITS_CANDY": {
+      "name": "FRUITS_CANDY",
       "link": "https://github.com/FRUITS-CANDY"
     },
     "GamerNoTitle": {
