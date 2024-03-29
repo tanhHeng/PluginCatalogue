@@ -2,7 +2,7 @@
   "schema_version": 4,
   "id": "region_file_updater_multi",
   "name": "Region file Updater Multi",
-  "version": "1.0.0-alpha.2+build.240321",
+  "version": "1.0.0-beta.1+build.240329",
   "link": "https://github.com/Lazy-Bing-Server/RegionFileUpdaterMulti-MCDR",
   "authors": [
     "Ra1ny_Yuki"
