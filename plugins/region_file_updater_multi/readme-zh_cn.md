@@ -8,8 +8,8 @@
 
 - 插件 ID: `region_file_updater_multi`
 - 插件名: Region file Updater Multi
-- 版本: 1.0.0-alpha.2+build.240321
-  - 元数据版本: 1.0.0-alpha.2+build.240321
+- 版本: 1.0.0-beta.1+build.240329
+  - 元数据版本: 1.0.0-beta.1+build.240329
   - 发布版本: N/A
 - 总下载量: 0
 - 作者: [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki)

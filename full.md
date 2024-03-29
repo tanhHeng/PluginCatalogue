@@ -5300,8 +5300,8 @@ An MCDR plugin that backs up or archives on a regional basis
 
 - Plugin ID: `region_file_updater_multi`
 - Plugin Name: Region file Updater Multi
-- Version: 1.0.0-alpha.2+build.240321
-  - Metadata version: 1.0.0-alpha.2+build.240321
+- Version: 1.0.0-beta.1+build.240329
+  - Metadata version: 1.0.0-beta.1+build.240329
   - Release version: N/A
 - Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki)
