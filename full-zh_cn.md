@@ -3143,7 +3143,7 @@ pip install "mcdreforged>=2.0.0b7" requests
 - 版本: 1.2.2
   - 元数据版本: 1.2.2
   - 发布版本: 1.2.2
-- 总下载量: 1483
+- 总下载量: 1484
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/lowercase_mcdr_command
@@ -3175,7 +3175,7 @@ pip install "mcdreforged>=2.0.0b7" requests
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LowercaseMCDRCommand-v1.2.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.2) | 1.2.2 | 2023/01/30 21:16:53 | 857B | 888 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.2/LowercaseMCDRCommand-v1.2.2.mcdr) |
+| [LowercaseMCDRCommand-v1.2.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.2) | 1.2.2 | 2023/01/30 21:16:53 | 857B | 889 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.2/LowercaseMCDRCommand-v1.2.2.mcdr) |
 | [LowercaseMCDRcommand-v1.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.1) | 1.2.1 | 2023/01/26 21:20:50 | 856B | 107 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.1/LowercaseMCDRcommand-v1.2.1.mcdr) |
 | [LowercaseMCDRcommand-v1.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.0) | 1.2.0 | 2023/01/26 17:40:59 | 910B | 87 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.0/LowercaseMCDRcommand-v1.2.0.mcdr) |
 
