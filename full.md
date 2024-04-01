@@ -743,7 +743,7 @@ This plugin supports [FastAPI MCDR](https://github.com/AnzhiZhang/MCDReforgedPlu
 - Version: 0.3.5
   - Metadata version: 0.3.5
   - Release version: 0.3.5
-- Total downloads: 2218
+- Total downloads: 2219
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
@@ -778,7 +778,7 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.5.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.5) | 0.3.5 | 2023/08/17 15:39:44 | 10.32KB | 218 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.5/CarpetBotManager-v0.3.5.pyz) |
+| [CarpetBotManager-v0.3.5.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.5) | 0.3.5 | 2023/08/17 15:39:44 | 10.32KB | 219 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.5/CarpetBotManager-v0.3.5.pyz) |
 | [CarpetBotManager-v0.3.4.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.4) | 0.3.4 | 2023/07/29 15:54:33 | 10.43KB | 59 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.4/CarpetBotManager-v0.3.4.pyz) |
 | [CarpetBotManager-v0.3.3.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.3) | 0.3.3 | 2023/07/29 15:55:20 | 10.35KB | 10 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.3/CarpetBotManager-v0.3.3.pyz) |
 
@@ -3055,7 +3055,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.2
   - Metadata version: 1.3.2
   - Release version: 1.3.2
-- Total downloads: 3474
+- Total downloads: 3477
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
@@ -3085,7 +3085,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.2.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.2) | 1.3.2 | 2023/06/06 16:04:30 | 18.87KB | 777 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.2/LocationMarker-v1.3.2.mcdr) |
+| [LocationMarker-v1.3.2.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.2) | 1.3.2 | 2023/06/06 16:04:30 | 18.87KB | 780 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.2/LocationMarker-v1.3.2.mcdr) |
 | [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2697 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## loginproxy
@@ -4154,7 +4154,7 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 - Version: 2.0.1
   - Metadata version: 2.0.1
   - Release version: 2.0.1
-- Total downloads: 2034
+- Total downloads: 2036
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
 - Repository plugin page: https://github.com/FAS-Server/MultiRconAPI/tree/main
@@ -4188,9 +4188,9 @@ pip install "mcdreforged>=2.1.2"
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 633 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
+| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 634 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
 | [MultiRconAPI-V2.0.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0) | 2.0.0 | 2022/01/20 17:52:27 | 4.17KB | 91 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.0/MultiRconAPI-V2.0.0.pyz) |
-| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1310 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
+| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1311 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
 ## multi_whitelist
 
@@ -4407,7 +4407,7 @@ pip install "websocket-client>=1.2.0" "mcdreforged>=2.0.4"
 - Version: 1.4.0
   - Metadata version: 1.4.1-alpha1
   - Release version: 1.4.0
-- Total downloads: 4330
+- Total downloads: 4331
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
 - Repository plugin page: https://github.com/FAS-Server/Online/tree/master
@@ -4443,7 +4443,7 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Online-v1.4.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.4.0) | 1.4.0 | 2021/09/07 18:29:49 | 2.55KB | 1774 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.4.0/Online-v1.4.0.mcdr) |
+| [Online-v1.4.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.4.0) | 1.4.0 | 2021/09/07 18:29:49 | 2.55KB | 1775 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.4.0/Online-v1.4.0.mcdr) |
 | [Online-v1.3.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.3.0) | 1.3.0 | 2021/09/07 03:11:37 | 1.96KB | 1172 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.3.0/Online-v1.3.0.mcdr) |
 | [online-v1.2.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.2.0) | 1.2.0 | 2021/08/21 11:06:24 | 2.78KB | 1384 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr) |
 
@@ -5767,7 +5767,7 @@ Another lightweight solution for used to build a high version(>1.12.2) of Modded
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 3782
+- Total downloads: 3783
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
 - Repository plugin page: https://github.com/TISUnion/Calculator/tree/master
@@ -5801,7 +5801,7 @@ pip install simpleeval
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 2371 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
+| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 2372 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
 | [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 1411 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## simple_op
@@ -6648,7 +6648,7 @@ A plugin designed for managing the World Eater on the vanilla server
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 15
+- Total downloads: 16
 - Authors: [XiaoYeYa](https://github.com/XiaoYeYa)
 - Repository: https://github.com/XiaoYeYa/ye_announcement
 - Repository plugin page: https://github.com/XiaoYeYa/ye_announcement/tree/master
@@ -6676,5 +6676,5 @@ A plugin designed for managing the World Eater on the vanilla server
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ye_announcement.mcdr](https://github.com/XiaoYeYa/ye_announcement/releases/tag/v1.3.0) | 1.3.0 | 2024/03/27 13:43:55 | 1.94KB | 15 | [Download](https://github.com/XiaoYeYa/ye_announcement/releases/download/v1.3.0/ye_announcement.mcdr) |
+| [ye_announcement.mcdr](https://github.com/XiaoYeYa/ye_announcement/releases/tag/v1.3.0) | 1.3.0 | 2024/03/27 13:43:55 | 1.94KB | 16 | [Download](https://github.com/XiaoYeYa/ye_announcement/releases/download/v1.3.0/ye_announcement.mcdr) |
 

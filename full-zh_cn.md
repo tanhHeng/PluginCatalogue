@@ -743,7 +743,7 @@ flowchart LR
 - 版本: 0.3.5
   - 元数据版本: 0.3.5
   - 发布版本: 0.3.5
-- 总下载量: 2218
+- 总下载量: 2219
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
 - 仓库插件页: https://github.com/FAS-Server/CarpetBotManager/tree/main
@@ -778,7 +778,7 @@ pip install "mcdreforged>=2.6.0"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.5.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.5) | 0.3.5 | 2023/08/17 15:39:44 | 10.32KB | 218 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.5/CarpetBotManager-v0.3.5.pyz) |
+| [CarpetBotManager-v0.3.5.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.5) | 0.3.5 | 2023/08/17 15:39:44 | 10.32KB | 219 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.5/CarpetBotManager-v0.3.5.pyz) |
 | [CarpetBotManager-v0.3.4.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.4) | 0.3.4 | 2023/07/29 15:54:33 | 10.43KB | 59 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.4/CarpetBotManager-v0.3.4.pyz) |
 | [CarpetBotManager-v0.3.3.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.3) | 0.3.3 | 2023/07/29 15:55:20 | 10.35KB | 10 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.3/CarpetBotManager-v0.3.3.pyz) |
 
@@ -3058,7 +3058,7 @@ pip install "mcdreforged>=2.0.0b7" requests
 - 版本: 1.3.2
   - 元数据版本: 1.3.2
   - 发布版本: 1.3.2
-- 总下载量: 3474
+- 总下载量: 3477
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - 仓库: https://github.com/TISUnion/LocationMarker
 - 仓库插件页: https://github.com/TISUnion/LocationMarker/tree/master
@@ -3088,7 +3088,7 @@ pip install "mcdreforged>=2.0.0b7" requests
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.2.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.2) | 1.3.2 | 2023/06/06 16:04:30 | 18.87KB | 777 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.2/LocationMarker-v1.3.2.mcdr) |
+| [LocationMarker-v1.3.2.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.2) | 1.3.2 | 2023/06/06 16:04:30 | 18.87KB | 780 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.2/LocationMarker-v1.3.2.mcdr) |
 | [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2697 | [下载](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## loginproxy
@@ -4242,7 +4242,7 @@ pip install jproperties mcdreforged
 - 版本: 2.0.1
   - 元数据版本: 2.0.1
   - 发布版本: 2.0.1
-- 总下载量: 2034
+- 总下载量: 2036
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/MultiRconAPI
 - 仓库插件页: https://github.com/FAS-Server/MultiRconAPI/tree/main
@@ -4276,9 +4276,9 @@ pip install "mcdreforged>=2.1.2"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 633 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
+| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 634 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
 | [MultiRconAPI-V2.0.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0) | 2.0.0 | 2022/01/20 17:52:27 | 4.17KB | 91 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.0/MultiRconAPI-V2.0.0.pyz) |
-| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1310 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
+| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1311 | [下载](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
 ## multi_whitelist
 
@@ -4495,7 +4495,7 @@ pip install "websocket-client>=1.2.0" "mcdreforged>=2.0.4"
 - 版本: 1.4.0
   - 元数据版本: 1.4.1-alpha1
   - 发布版本: 1.4.0
-- 总下载量: 4330
+- 总下载量: 4331
 - 作者: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/Online
 - 仓库插件页: https://github.com/FAS-Server/Online/tree/master
@@ -4531,7 +4531,7 @@ pip install "mcdreforged>=2.1.3" "parse>=1.19.0"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Online-v1.4.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.4.0) | 1.4.0 | 2021/09/07 18:29:49 | 2.55KB | 1774 | [下载](https://github.com/FAS-Server/Online/releases/download/v1.4.0/Online-v1.4.0.mcdr) |
+| [Online-v1.4.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.4.0) | 1.4.0 | 2021/09/07 18:29:49 | 2.55KB | 1775 | [下载](https://github.com/FAS-Server/Online/releases/download/v1.4.0/Online-v1.4.0.mcdr) |
 | [Online-v1.3.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.3.0) | 1.3.0 | 2021/09/07 03:11:37 | 1.96KB | 1172 | [下载](https://github.com/FAS-Server/Online/releases/download/v1.3.0/Online-v1.3.0.mcdr) |
 | [online-v1.2.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.2.0) | 1.2.0 | 2021/08/21 11:06:24 | 2.78KB | 1384 | [下载](https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr) |
 
@@ -5734,7 +5734,7 @@ pip install "mcdreforged>=2.0.0a1"
 - 版本: 1.2.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.2.0
-- 总下载量: 3782
+- 总下载量: 3783
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/Calculator
 - 仓库插件页: https://github.com/TISUnion/Calculator/tree/master
@@ -5768,7 +5768,7 @@ pip install simpleeval
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 2371 | [下载](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
+| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 2372 | [下载](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
 | [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 1411 | [下载](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## simple_op
@@ -6617,7 +6617,7 @@ pip install "mcdreforged>=2.6.0"
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 15
+- 总下载量: 16
 - 作者: [XiaoYeYa](https://github.com/XiaoYeYa)
 - 仓库: https://github.com/XiaoYeYa/ye_announcement
 - 仓库插件页: https://github.com/XiaoYeYa/ye_announcement/tree/master
@@ -6645,5 +6645,5 @@ pip install "mcdreforged>=2.6.0"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [ye_announcement.mcdr](https://github.com/XiaoYeYa/ye_announcement/releases/tag/v1.3.0) | 1.3.0 | 2024/03/27 13:43:55 | 1.94KB | 15 | [下载](https://github.com/XiaoYeYa/ye_announcement/releases/download/v1.3.0/ye_announcement.mcdr) |
+| [ye_announcement.mcdr](https://github.com/XiaoYeYa/ye_announcement/releases/tag/v1.3.0) | 1.3.0 | 2024/03/27 13:43:55 | 1.94KB | 16 | [下载](https://github.com/XiaoYeYa/ye_announcement/releases/download/v1.3.0/ye_announcement.mcdr) |
 
