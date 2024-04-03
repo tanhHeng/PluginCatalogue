@@ -1449,7 +1449,7 @@ Show time in Minecraft
 - Version: 1.3.2
   - Metadata version: 1.3.2
   - Release version: 1.3.2
-- Total downloads: 573
+- Total downloads: 574
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/delayexe_mcdr
 - Repository plugin page: https://github.com/kmcsr/delayexe_mcdr/tree/master
@@ -1479,7 +1479,7 @@ Show time in Minecraft
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DelayExe-v1.3.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.2) | 1.3.2 | 2023/08/27 01:27:19 | 4.77KB | 78 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.2/DelayExe-v1.3.2.mcdr) |
+| [DelayExe-v1.3.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.2) | 1.3.2 | 2023/08/27 01:27:19 | 4.77KB | 79 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.2/DelayExe-v1.3.2.mcdr) |
 | [DelayExe-v1.3.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 07:59:57 | 4.77KB | 218 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.0/DelayExe-v1.3.0.mcdr) |
 | [DelayExe-v1.2.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.2) | 1.2.2 | 2022/10/23 06:19:23 | 4.78KB | 42 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.2/DelayExe-v1.2.2.mcdr) |
 
@@ -2784,7 +2784,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.4.9
   - Metadata version: 1.4.9
   - Release version: 1.4.9
-- Total downloads: 1375
+- Total downloads: 1376
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -2814,7 +2814,7 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.9.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.9) | 1.4.9 | 2024/02/03 00:47:07 | 26.16KB | 154 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.9/KPI-v1.4.9.mcdr) |
+| [KPI-v1.4.9.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.9) | 1.4.9 | 2024/02/03 00:47:07 | 26.16KB | 155 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.9/KPI-v1.4.9.mcdr) |
 | [KPI-v1.4.8.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.8) | 1.4.8 | 2023/08/26 19:20:34 | 26.14KB | 227 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.8/KPI-v1.4.8.mcdr) |
 | [KPI-v1.4.7.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.7) | 1.4.7 | 2023/06/28 02:39:10 | 26.14KB | 213 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.7/KPI-v1.4.7.mcdr) |
 
@@ -3097,7 +3097,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 0.6.10
   - Metadata version: 0.6.7
   - Release version: 0.6.10
-- Total downloads: 829
+- Total downloads: 830
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
@@ -3127,7 +3127,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LoginProxy-v0.6.10.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.10) | 0.6.10 | 2024/02/04 00:27:18 | 29.81KB | 68 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.10/LoginProxy-v0.6.10.mcdr) |
+| [LoginProxy-v0.6.10.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.10) | 0.6.10 | 2024/02/04 00:27:18 | 29.81KB | 69 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.10/LoginProxy-v0.6.10.mcdr) |
 | [LoginProxy-v0.6.9.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.9) | 0.6.9 | 2024/02/04 00:20:17 | 29.82KB | 10 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.9/LoginProxy-v0.6.9.mcdr) |
 | [LoginProxy-v0.6.8.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.8) | 0.6.8 | 2024/02/04 00:01:20 | 29.77KB | 9 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.8/LoginProxy-v0.6.8.mcdr) |
 
@@ -5989,7 +5989,7 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 - Version: 1.3.9
   - Metadata version: 1.3.8
   - Release version: 1.3.9
-- Total downloads: 562
+- Total downloads: 563
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
 - Repository plugin page: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
@@ -6020,7 +6020,7 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SmartServerTime-v1.3.9.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.9) | 1.3.9 | 2024/02/04 05:07:14 | 17.44KB | 32 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.9/SmartServerTime-v1.3.9.mcdr) |
+| [SmartServerTime-v1.3.9.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.9) | 1.3.9 | 2024/02/04 05:07:14 | 17.44KB | 33 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.9/SmartServerTime-v1.3.9.mcdr) |
 | [SmartServerTime-v1.3.8.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.8) | 1.3.8 | 2024/02/04 04:40:22 | 17.43KB | 12 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.8/SmartServerTime-v1.3.8.mcdr) |
 | [SmartServerTime-v1.3.7.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.7) | 1.3.7 | 2024/02/04 00:21:18 | 17.42KB | 9 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.7/SmartServerTime-v1.3.7.mcdr) |
 
