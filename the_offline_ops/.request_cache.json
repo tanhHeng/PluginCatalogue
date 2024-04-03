@@ -2,12 +2,64 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
+      "etag": "\"9edab3d6bd727bfadcb66de59c01ee6d6fce2d7068a69b7802c13e2c98d07875\"",
+      "data": "H4sIAEB7DWYC/+1XXY/iNhT9KxZPrTSQTz4SqV3NiFlpq1ZTrWZVaXZXkYlNsMax09iBZdD89147CTB0Bi0svLQ8IOBy7znm2jnX5/OqU5W8E6POTOtCxY6DC9bLmJ5Vk14qc6ekhVQO1ze0LJdqRqSjZzSR0ylnAt4LBRmcYkWVE3lBGHnesHOFOlgpqlVycmynBjYUVcElJrsUdVSdhmb1TuCcXnE8ofzZcM50zncZt5i+i0PjzJl7Pc/gMQJILalpW6VnsoTYqsNlxoTh2QJdl3hu3w3DcOhBQEhCExvtfEoes/HdzePvD9HC7sIca1z+axdstG1RpWiZSqGp0PY/VM4a/N38l9DAZGUDVLPY5u/dWIP5ouOH9c5kTyXncgEwyYFUzrpyA8NEdiQMVK4cCXsJXYQUewgypvThy7JVK/sGfbRACnpaUnIwVFMHC1sIWNPKnvAasZqotGSFZlIcvsQX1QZOlhkW7AkfBwfVFsU+fwdX2ypTTudwNA+vr8tWTlGyOU6Xz/VKUsrm0PEjMXfqDaReFtQ+epBsd4BpmmCS22d3irmizy+f0Y+3yeNifPdBhb8pFb5P6U1kcXCWGLExKa06wDZnVCewlpxppmbmtxwDskFscj8VBGuKtERtFSnxVLfk8L0oaaM9W8G0pFBGEmwyO77rB13X77rhvRvF/SD2wwcDVVQTDryv5XleHPhxGD1s1B4yPp9wnNSgThT6o3A4cjdy2QR22nr9oq3i77nabtP9jN7VJMDRNa3q5SmxO2bVHXJExfl6rNCLCF9E+CLC/ykRbh6wpM3GRcFZavvqyFRT3VUaZDFvToW2SY0ckBr2ycT6gygyOgsbb2+gqayEkUffjfYpa62YweChvrySvVkjmzUp5QL+UrKm+sGrZ4tj75/OW5r4/LWePRPM+Q/f4Buc9Y33iRUnwW1w1rgTSZYG0OuhD38iOCOyJAoxhYRcICYQRjDJNOp2u7+ixHz86efkCukZ1iinWCi0lBVKsUAg+SYf2j6nJVrAmhBh0ynMUKEBWpkfN4HU9LX3pfwi/B56z74hJXNqMOBgcZQDD35sEoIeuiYE5RXXrMsKZMY6FuQKwRGHhcBSYYjDmaSCAI8tCXuome8fb6/Hf9wiyAd+XUpSpebcoinjDbx5NRttcpDvBI45Vx04+iecyqNoMBiOwuAcJq/FPrPJ26E5p8nb3Fpa0ovJu9wvLveL/5nJ+2v8OH7F5Lnfa/JgUqNmVCOQGdTWHm31vK7v3rvDOIhid7DH6rV5IbhC//xWzw/doD8abqxeE9hr9bIpHe+1eu7F6l2k+CLFF6t3hNULB+5rVi+I9gmr58dhP/b6bzq97azh2Z2e67wliedyeu6ZnJ677fTAniljgSC86308cD6N+fn6D9IVq2HiGgAA",
+      "empty": false
+    },
+    "2": {
       "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
-      "data": "H4sIAKB0DWYC/4uOBQApu0wNAgAAAA==",
+      "data": "H4sIAEJ7DWYC/4uOBQApu0wNAgAAAA==",
       "empty": true
     }
   },
-  "asset_data": {},
+  "asset_data": {
+    "94284780": {
+      "meta": {
+        "schema_version": 4,
+        "id": "the_offline_ops",
+        "name": "The Offline ops",
+        "version": "1.1",
+        "link": "https://github.com/ltBerryshdo/the_offline_ops",
+        "authors": [
+          "ltBerryshdo"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Check the player's IP to prevent impersonation of logging into the offline server",
+          "zh_cn": "检测玩家IP以防止冒名登陆离线服务器"
+        }
+      },
+      "size": 5699,
+      "hash_md5": "5c3cbb30084affce5062fc0d0cd45a95",
+      "hash_sha256": "51034fc053ac26baec693ca4fc79a3b801e7e950139fc57b6561303ed15584d7"
+    },
+    "92403587": {
+      "meta": {
+        "schema_version": 4,
+        "id": "the_offline_ops",
+        "name": "The Offline ops",
+        "version": "1.0",
+        "link": "https://github.com/ltBerryshdo/the_offline_ops",
+        "authors": [
+          "ltBerryshdo"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Provides a method to protect admin and normal player's account in game server, which 'online-mode' is 'false'",
+          "zh_cn": "为未开启在线模式（正版验证）的服务器提供了管理员和普通玩家账号保护的一种方法"
+        }
+      },
+      "size": 5460,
+      "hash_md5": "d9227d6a8689539161e344f177396dcc",
+      "hash_sha256": "e74563ecd05c517393b94fced9a53fae84ff9899e165fc9068b93c75780ac962"
+    }
+  },
   "repos_info": {
     "etag": "\"b13c0d2f120c6f2f614627aa7d664a64a3863a4fa9b8ca1498034934d6bc0362\"",
     "data": "H4sIAOyo8WUC/62YX2/jNgzAv4qRlz6siZM0Xa8BDrfdChQbeltxaDGgw2DINmPrIkueJCdLjXz3UZL/ZsW1afzSxrL4E0VTFMlyROPR0rv8cHE9/zBfzM+9ERcxBHZ09DVYJzd//KoWv6lkZF6RDMy4TiEQqxWjHP/nyrxaFYwF9XumP4OUO5XGwn9hbi7phmgzc0WYAhwRWw4Sn8sREwnlBwwjYxWaTS+ni8XiatZX89Gq+Xl993S9NXMJ0okMCsnM21TrXC19342qSUJ1WoSFAhkJroHrSSQyv/Ab+KfNx4XBJLICuVXM0CEypxXOMZCp/APFU52xQ1U6MgezV4IxsUVMcORSfiPZYihP3olBydIX+OnQijhlb81BlT5eLStV2n9oRwtSaFMJ8dGoSg4VM96yL30JuXDEIlSRpLmmgh+vYk/a4IRMCKfP5H04lLYUo93x0lbKiMMGXfN4eSdW+vaMRbu90yQCukGLv5N5IG+Qepfbk/6Ik+0XoBoCEmf27NpTvT/K918KEzE0n8UAfva+/HLzFVZoX4i9nBUYKCbevRQbijM94mWgUxF7Wni5FBoi7VmFPMJjjwuZEYZSZAfyDGdHkSi49vB1gkHLw21sQJ5725RGqXcmuFFknGGMOfOo8s7sls7c0ZLrTuT6vi3t13xtn4b42kd5FeRbisGtYXc6zUBK87c+tBHGBRIKSbSQp+N7tLL3aFfTQLLTV7EUG4OFGMDClmLvIqUKeNthep1qYao5t7zIwirgDrRAe2iJUjThAKczG1LpN/dDKAmP0gHgNaisfjmPIMkADkFcaA6ZCE+n4WTfkkpfpaS6I3UwiKaGbUB9tITVMGgDatFaDuETVmVpfaIG442t0T9OZ9cgv6zRjPCkIMkA7IZU5yYJeQY5iM4VysVPriUNi4HCZwvr5D/hIGq3rMPUaii2u9KtUbKM6iHsYTn9wzIU3Pj1/xYwA4NE5xrUi/zugqleDXXDvLhSVQIN45IG5Jc/5ESntZFyImEIGxmOX4YE88rJZFKmQFxakoEcIgY4jL0jZZRirnsysaxBK5N5alutrKzKMZYvTJD4dK0bUuMzQ6UjPR/JsbQ/HWwpPW5GGSgt+BDfr0H1VuBC0xWN3lTIvb5Ij1Z+UpRHcE4YO0fn1DSi6PdYN1e3UwhsiKvJYHBLWKJUlRwDMsSFWoNKv8rvY8iZ2A0T0zosGwYkEI3VI9GGOp/O5+PZfHwxe5hdLC+vlpeLJ9tayeP+rIvxdDaeTx+ml8vZ9fJi+uR8UaXdSYvxdD6eXj1Mr5bzxXJx9VRH/2oP+PPNNafZpL3yVNoR/6kVXr5BOGLohe+reZv1N/z9RXMqMsgxm6k7Voo+m9+2ZdZJbmz1i+NTHN4Sjen2wWCdFRnO/Q4La3thp0QFLkLguJYFVGNYcH/DgvtgtI1PveEtXdMDcZt+tUW1FaYqKrDMMD2Z9o2rlWtFZzaKSCnqZh/HINMG8bgjiDgSst6QyIFXu+lvnUbAFdh2JFbA1g9yNr6YTLs90NvfH71b4CAJ8+6LEIW8OyfobaqpKo//rZqHt/d3NeD7p6taHNOOzpJtq/PLTfTjwy379vTn5fPTw/rjyLRZiGnZmYtmjfGntSxVgYYsZ/1W6xbCKjUKTA2H7oNlxT8FlT3baJHTyBj+r1EWxXLs2i02auNj1YRxQZxDJMlKj/7Gpw1VNKSMamu13JqlaXFUH6xj9gMHrB5jWJGC6cBVfwaUEbd2DjKjjU+Uo17D6dzN06Q3ZAJGd1+SOqdu3zNWmWxvGw9ZHrgzrMUaeH2MOOgt7qHned2suxnf/we0oHEZUhcAAA=="
