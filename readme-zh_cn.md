@@ -30,7 +30,7 @@
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Bot Manager](/plugins/carpet_bot_manager/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作 | 2023/08/17 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Carpet Tick](/plugins/carpet_tick/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 使用 Carpet Mod 的 /tick 指令获取服务器信息 | 2022/08/27 | [`信息`](/labels/information/readme-zh_cn.md) |
-| [CarpetBotList](/plugins/carpetbotlist/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 帮助你管理地毯端假人 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [CarpetBotList](/plugins/carpetbotlist/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 帮助你管理地毯端假人 | 2021/08/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Cato Plugin](/plugins/cato/readme-zh_cn.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | 2021/10/31 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 跨服聊天 | 2023/12/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是） | 2022/12/20 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -50,7 +50,7 @@
 | [FastAPI MCDR](/plugins/fastapi_mcdr/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供 HTTP API。 | 2023/12/21 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [FastBotSpawn](/plugins/fbs_plugin/readme-zh_cn.md) | [WalkerTian](https://github.com/Walkersifolia) | A plugin with multiple functions | 2023/09/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Gamemode](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 旁观者模式以旁观，返回生存时传送回原坐标 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Gamemode](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 旁观者模式以旁观，返回生存时传送回原坐标 | 2023/12/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | 显示坐标并高亮玩家 | 2021/11/05 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [HibernateR](/plugins/hibernate_r/readme-zh_cn.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2024/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [homo_calculator](/plugins/homo_calculator/readme-zh_cn.md) | [meng877](https://github.com/meng877) | homo_calculator | 2024/03/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -68,13 +68,13 @@
 | [Ledger Cleaner](/plugins/ledger_cleaner/readme-zh_cn.md) | [UnknownBits](https://github.com/UnknownBits), [tanh_Heng](https://github.com/tanhHeng) | 清理与释放ledger数据库 | 2023/07/13 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Let Me Click and Send](/plugins/let_me_click_and_send/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 允许在 1.19 点击发送任意信息 | 2023/02/25 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [Location Marker](/plugins/location_marker/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | 一个服务端共享路标点管理器 | N/A | [`信息`](/labels/information/readme-zh_cn.md) |
+| [Location Marker](/plugins/location_marker/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | 一个服务端共享路标点管理器 | 2023/06/06 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2024/02/03 | [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Lowercase MCDR Command](/plugins/lowercase_mcdr_command/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小写的 `!!MCDR` 指令 | 2023/01/30 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MatrixSync](/plugins/matrix_sync/readme-zh_cn.md) | [Mooling0602](https://github.com/Mooling0602) | 同步Matrix群组和线上游戏的消息. | 2024/03/10 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Seen](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | Show laziness rank easily | 2024/02/27 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | 用于展示进行中的工程任务的插件 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | 用于展示进行中的工程任务的插件 | 2024/02/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Announcements](/plugins/mcdr_announcements/readme-zh_cn.md) | [dodo939](https://github.com/yfy-dodo939) | A plugin running on MCDR to send announcements regularly. | 2023/12/13 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2023/04/14 | [`管理`](/labels/management/readme-zh_cn.md) |
@@ -104,7 +104,7 @@
 | [QQChat](/plugins/qq_chat/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny) | QQ 相关实用功能 | 2023/06/29 | [`信息`](/labels/information/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 多槽位备份/回档插件 | 2023/12/22 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | 2021/12/24 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Region BackUp](/plugins/region_backup/readme-zh_cn.md) | [FRUITS-CANDY](https://github.com/FRUITS-CANDY) | 一个以区域为单位备份或回档的MCDR插件 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
+| [Region BackUp](/plugins/region_backup/readme-zh_cn.md) | [FRUITS-CANDY](https://github.com/FRUITS-CANDY) | 一个以区域为单位备份或回档的MCDR插件 | 2024/03/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | 2022/03/08 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Region file Updater Multi](/plugins/region_file_updater_multi/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | 一个从多个位置拉取 region 文件至本服存档的插件 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | 2021/09/08 | [`工具`](/labels/tool/readme-zh_cn.md) |
@@ -121,7 +121,7 @@
 | [SmartBackup](/plugins/smart_backup/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个多功能Minecraft存档备份插件 | 2022/05/11 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [SmartServerTime](/plugins/smart_servertime/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft自动停起服务器插件 | 2024/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/05/18 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
-| [The Offline ops](/plugins/the_offline_ops/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | 检测玩家IP以防止冒名登陆离线服务器 | N/A | [`管理`](/labels/management/readme-zh_cn.md) |
+| [The Offline ops](/plugins/the_offline_ops/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | 检测玩家IP以防止冒名登陆离线服务器 | 2023/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2023/03/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [ToDoList](/plugins/todolist/readme-zh_cn.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList，待办清单 | 2023/03/19 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [TpManager](/plugins/tpm/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器传送管理 | 2024/03/09 | [`工具`](/labels/tool/readme-zh_cn.md) |

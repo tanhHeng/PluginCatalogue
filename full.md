@@ -832,8 +832,8 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 - Plugin Name: CarpetBotList
 - Version: 2.1.1
   - Metadata version: 2.1.1
-  - Release version: N/A
-- Total downloads: 0
+  - Release version: 2.1.1
+- Total downloads: 4834
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
@@ -863,6 +863,9 @@ Help you manage your carpet fake player
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [CarpetBotList-v2.1.1.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.1) | 2.1.1 | 2021/08/23 06:17:05 | 1.89KB | 2053 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.1/CarpetBotList-v2.1.1.mcdr) |
+| [CarpetBotList-v2.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0) | 2.1.0 | 2021/08/16 11:33:40 | 4.08KB | 1387 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.0/CarpetBotList-v2.1.0.mcdr) |
+| [CarpetBotList-v2.0.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0) | 2.0.0 | 2021/08/12 07:45:32 | 3.6KB | 1394 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.0.0/CarpetBotList-v2.0.0.mcdr) |
 
 ## cato
 
@@ -2175,8 +2178,8 @@ Make file transfers faster!
 - Plugin Name: Gamemode
 - Version: 1.1.0
   - Metadata version: 1.1.0
-  - Release version: N/A
-- Total downloads: 0
+  - Release version: 1.1.0
+- Total downloads: 2035
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/gamemode
@@ -2255,6 +2258,9 @@ Make file transfers faster!
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [Gamemode-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v1.1.0) | 1.1.0 | 2023/12/26 11:40:57 | 3.17KB | 318 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v1.1.0/Gamemode-v1.1.0.mcdr) |
+| [Gamemode-v1.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v1.0.1) | 1.0.1 | 2023/03/18 15:38:32 | 3.1KB | 927 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v1.0.1/Gamemode-v1.0.1.mcdr) |
+| [Gamemode-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v1.0.0) | 1.0.0 | 2022/12/02 14:11:43 | 3.06KB | 428 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v1.0.0/Gamemode-v1.0.0.mcdr) |
 
 ## here
 
@@ -3048,8 +3054,8 @@ Browse / Import / Export files in the server in Minecraft!
 - Plugin Name: Location Marker
 - Version: 1.3.2
   - Metadata version: 1.3.2
-  - Release version: N/A
-- Total downloads: 0
+  - Release version: 1.3.2
+- Total downloads: 3479
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
@@ -3079,6 +3085,8 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [LocationMarker-v1.3.2.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.2) | 1.3.2 | 2023/06/06 16:04:30 | 18.87KB | 782 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.2/LocationMarker-v1.3.2.mcdr) |
+| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2697 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## loginproxy
 
@@ -3314,10 +3322,10 @@ Shows tasks of project in progress
 
 - Plugin ID: `mcd_task`
 - Plugin Name: Task
-- Version: 2.3.6-dev+build.68
+- Version: 2.3.6+build.240207
   - Metadata version: 2.3.6-dev+build.68
-  - Release version: N/A
-- Total downloads: 0
+  - Release version: 2.3.6+build.240207
+- Total downloads: 4253
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki)
 - Repository: https://github.com/TISUnion/Task
 - Repository plugin page: https://github.com/TISUnion/Task/tree/master
@@ -3352,6 +3360,9 @@ Shows tasks of project in progress
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [Task-v2.3.6+build.240207.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.6) | 2.3.6+build.240207 | 2024/02/07 02:04:17 | 18.62KB | 85 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.6/Task-v2.3.6%2Bbuild.240207.mcdr) |
+| [Task-v2.3.5+build.67.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.5) | 2.3.5+build.67 | 2022/12/15 01:59:58 | 18.48KB | 741 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.5/Task-v2.3.5%2Bbuild.67.mcdr) |
+| [Task-v2.3.4+build.66.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.4) | 2.3.4+build.66 | 2022/11/10 16:35:38 | 18.45KB | 133 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.4/Task-v2.3.4%2Bbuild.66.mcdr) |
 
 ## mcdr_announcements
 
@@ -4682,7 +4693,7 @@ Database-based Carpet fake player management
 - Version: 1.7.3
   - Metadata version: 1.7.3
   - Release version: 1.7.3
-- Total downloads: 1112
+- Total downloads: 1113
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/PrimeBackup
 - Repository plugin page: https://github.com/TISUnion/PrimeBackup/tree/master
@@ -4768,7 +4779,7 @@ The idea for the hash-based file pool is inspired by https://github.com/z0z0r4/b
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PrimeBackup-v1.7.3.pyz](https://github.com/TISUnion/PrimeBackup/releases/tag/v1.7.3) | 1.7.3 | 2024/03/10 18:48:38 | 146.27KB | 159 | [Download](https://github.com/TISUnion/PrimeBackup/releases/download/v1.7.3/PrimeBackup-v1.7.3.pyz) |
+| [PrimeBackup-v1.7.3.pyz](https://github.com/TISUnion/PrimeBackup/releases/tag/v1.7.3) | 1.7.3 | 2024/03/10 18:48:38 | 146.27KB | 160 | [Download](https://github.com/TISUnion/PrimeBackup/releases/download/v1.7.3/PrimeBackup-v1.7.3.pyz) |
 | [PrimeBackup-v1.7.2.pyz](https://github.com/TISUnion/PrimeBackup/releases/tag/v1.7.2) | 1.7.2 | 2024/02/25 01:48:39 | 146.17KB | 105 | [Download](https://github.com/TISUnion/PrimeBackup/releases/download/v1.7.2/PrimeBackup-v1.7.2.pyz) |
 | [PrimeBackup-v1.7.1.pyz](https://github.com/TISUnion/PrimeBackup/releases/tag/v1.7.1) | 1.7.1 | 2024/02/24 18:44:14 | 146.19KB | 8 | [Download](https://github.com/TISUnion/PrimeBackup/releases/download/v1.7.1/PrimeBackup-v1.7.1.pyz) |
 
@@ -5203,8 +5214,8 @@ A plugin for run command quickly
 - Plugin Name: Region BackUp
 - Version: 1.7.0
   - Metadata version: 1.7.0
-  - Release version: N/A
-- Total downloads: 0
+  - Release version: 1.7.0
+- Total downloads: 12
 - Authors: [FRUITS-CANDY](https://github.com/FRUITS-CANDY)
 - Repository: https://github.com/Passion-Never-Dissipate/Region_BackUp
 - Repository plugin page: https://github.com/Passion-Never-Dissipate/Region_BackUp/tree/master
@@ -5237,6 +5248,9 @@ An MCDR plugin that backs up or archives on a regional basis
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [Region-BackUp-v1.7.0.mcdr](https://github.com/Passion-Never-Dissipate/Region_BackUp/releases/tag/v1.7.0) | 1.7.0 | 2024/03/26 14:05:49 | 23.4KB | 7 | [Download](https://github.com/Passion-Never-Dissipate/Region_BackUp/releases/download/v1.7.0/Region-BackUp-v1.7.0.mcdr) |
+| [Region_BackUp-v1.6.1.mcdr](https://github.com/Passion-Never-Dissipate/Region_BackUp/releases/tag/v1.6.1) | 1.6.1 | 2024/03/26 14:08:57 | 20.79KB | 1 | [Download](https://github.com/Passion-Never-Dissipate/Region_BackUp/releases/download/v1.6.1/Region_BackUp-v1.6.1.mcdr) |
+| [Region-BackUp-v1.6.0.mcdr](https://github.com/Passion-Never-Dissipate/Region_BackUp/releases/tag/v1.6.0) | 1.6.0 | 2024/03/26 14:09:43 | 20.74KB | 1 | [Download](https://github.com/Passion-Never-Dissipate/Region_BackUp/releases/download/v1.6.0/Region-BackUp-v1.6.0.mcdr) |
 
 ## region_file_updater
 
@@ -6065,8 +6079,8 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 - Plugin Name: The Offline ops
 - Version: 1.1
   - Metadata version: 1.1
-  - Release version: N/A
-- Total downloads: 0
+  - Release version: 1.1
+- Total downloads: 248
 - Authors: [ltBerryshdo](https://github.com/ltBerryshdo)
 - Repository: https://github.com/ltBerryshdo/the_offline_ops
 - Repository plugin page: https://github.com/ltBerryshdo/the_offline_ops/tree/main
@@ -6118,6 +6132,8 @@ Only matches the IP address received by the server and player name, and the play
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [TheOfflineops-v1.1.mcdr](https://github.com/ltBerryshdo/the_offline_ops/releases/tag/v1.1) | 1.1 | 2023/02/04 11:32:36 | 5.57KB | 209 | [Download](https://github.com/ltBerryshdo/the_offline_ops/releases/download/v1.1/TheOfflineops-v1.1.mcdr) |
+| [TheOfflineops-v1.0.mcdr](https://github.com/ltBerryshdo/the_offline_ops/releases/tag/v1.0) | 1.0 | 2023/01/20 12:45:15 | 5.33KB | 39 | [Download](https://github.com/ltBerryshdo/the_offline_ops/releases/download/v1.0/TheOfflineops-v1.0.mcdr) |
 
 ## timed_quick_backup_multi
 
