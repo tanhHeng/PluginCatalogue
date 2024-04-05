@@ -8,10 +8,10 @@
 
 - Plugin ID: `better_backup`
 - Plugin Name: Better Backup
-- Version: 2.1.6
+- Version: 2.1.7
   - Metadata version: 2.1.7
-  - Release version: 2.1.6
-- Total downloads: 340
+  - Release version: N/A
+- Total downloads: 0
 - Authors: [z0z0r4](https://github.com/z0z0r4)
 - Repository: https://github.com/z0z0r4/better_backup
 - Repository plugin page: https://github.com/z0z0r4/better_backup/tree/master
@@ -54,5 +54,4 @@ Features:
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Better_Backup-v2.1.6.mcdr](https://github.com/z0z0r4/better_backup/releases/tag/v2.1.6) | 2.1.6 | 2023/08/30 12:35:29 | 17.57KB | 340 | [Download](https://github.com/z0z0r4/better_backup/releases/download/v2.1.6/Better_Backup-v2.1.6.mcdr) |
 
