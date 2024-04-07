@@ -30,6 +30,6 @@ Plugin Amount: 22
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | 2022/05/18 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | 2023/03/19 | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [welcome_msg](/plugins/welcome_msg/readme.md) | [JAs0n](https://github.com/JAs0n319) | Send welcome Msg to all player | 2023/11/06 | [`Information`](/labels/information/readme.md) |
-| [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | Query players' coordinates | 2023/12/12 | [`Information`](/labels/information/readme.md) |
+| [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | Query players' coordinates | 2024/04/07 | [`Information`](/labels/information/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
 

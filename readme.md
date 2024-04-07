@@ -127,7 +127,7 @@ Plugin Amount: 116
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | 2024/03/09 | [`Tool`](/labels/tool/readme.md) |
 | [UUIDAPI](/plugins/uuid_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | 2023/07/18 | [`API`](/labels/api/readme.md) |
 | [welcome_msg](/plugins/welcome_msg/readme.md) | [JAs0n](https://github.com/JAs0n319) | Send welcome Msg to all player | 2023/11/06 | [`Information`](/labels/information/readme.md) |
-| [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | Query players' coordinates | 2023/12/12 | [`Information`](/labels/information/readme.md) |
+| [Where Is](/plugins/where_is/readme.md) | [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | Query players' coordinates | 2024/04/07 | [`Information`](/labels/information/readme.md) |
 | [Whisper](/plugins/whisper/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Send some private message to others in a faster way.(Vanilla feature supplements) | 2023/02/20 | [`Tool`](/labels/tool/readme.md) |
 | [Wiki Request](/plugins/wiki_request/readme.md) | [DrLee_lihr](https://github.com/DrLee-lihr) | A plugin to look up any MediaWiki | 2021/08/26 | [`Information`](/labels/information/readme.md) |
 | [World Copier](/plugins/world_copier/readme.md) | [Alex3236](https://github.com/alex3236) | Sync your mirror server with main server. | 2022/04/03 | [`Management`](/labels/management/readme.md) |
