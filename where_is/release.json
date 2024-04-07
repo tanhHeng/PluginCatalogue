@@ -1,9 +1,48 @@
 {
   "schema_version": 8,
   "id": "where_is",
-  "latest_version": "2.1.1+build.9",
+  "latest_version": "2.2.0+build.12",
   "latest_version_index": 0,
   "releases": [
+    {
+      "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.2.0",
+      "name": "v2.2.0",
+      "tag_name": "2.2.0",
+      "created_at": "2024-04-07T14:07:18Z",
+      "description": "> [!IMPORTANT]\r\n> This version no longer supports MCDReforged v2.11 and earlier\r\n\r\n# New in v2.2.0\r\n\r\n1. This plugin now have a in-game help message, execute `where_is` prefix (`!!whereis` or `!!vris` by default) to browse\r\n2. New command syntax:\r\n   - `where_is` command allowed querying multiple players\r\n   - deprecated old optional argument syntax, `-as` / `-sa` are removed, now optional arguments should be divided by space\r\n\r\n     > Actually commands mixing these arguments into player names can be parsed correctly too\r\n\r\n3. Now highlight time can be specified by attaching argument `-h/--highlight <duration>`\r\n     > Highlight argument, when executing a command that won't broadcast player's location, will be ignored to protect player's location from highlighting accidentally by player has no privilege\r\n\r\n\r\n# Other changes\r\n\r\n1. Due to the use of new features, dependency `mcdreforged` raised to `>=2.12.0`\r\n\r\n2. Now MCDR can suggest player names and arguments while user input query commands in console.\r\n\r\n**Full Changelog**: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/compare/2.1.1...2.2.0",
+      "prerelease": false,
+      "asset": {
+        "id": 160784365,
+        "name": "WhereIs-v2.2.0+build.12.mcdr",
+        "size": 24980,
+        "download_count": 0,
+        "created_at": "2024-04-07T14:36:41Z",
+        "browser_download_url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.2.0/WhereIs-v2.2.0%2Bbuild.12.mcdr",
+        "hash_md5": "d82eca68796c1bb9ee0cf6e2a7b46a5d",
+        "hash_sha256": "bdb23134535e9187ee682c1d3e38ffe2d3eb6db2c23fcf3188a13bcf0f29e9cb"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "where_is",
+        "name": "Where Is",
+        "version": "2.2.0+build.12",
+        "link": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
+        "authors": [
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*",
+          "mcdreforged": ">=2.12.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.3"
+        ],
+        "description": {
+          "en_us": "Query players' coordinates",
+          "zh_cn": "查询玩家的坐标"
+        }
+      }
+    },
     {
       "url": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.1.1",
       "name": "v2.1.1",
