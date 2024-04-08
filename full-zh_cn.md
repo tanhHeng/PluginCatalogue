@@ -2355,7 +2355,7 @@ pip install "mcdreforged>=2.0.0b3"
 - 版本: 11.45.14
   - 元数据版本: 11.45.14
   - 发布版本: 11.45.14
-- 总下载量: 13
+- 总下载量: 14
 - 作者: [meng877](https://github.com/meng877)
 - 仓库: https://github.com/meng877/homo_calculator
 - 仓库插件页: https://github.com/meng877/homo_calculator/tree/master
@@ -2383,7 +2383,7 @@ pip install "mcdreforged>=2.0.0b3"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [homo_calculator.mcdr](https://github.com/meng877/homo_calculator/releases/tag/homo_calculator-11.45.14) | 11.45.14 | 2024/03/09 05:31:37 | 5.21KB | 13 | [下载](https://github.com/meng877/homo_calculator/releases/download/homo_calculator-11.45.14/homo_calculator.mcdr) |
+| [homo_calculator.mcdr](https://github.com/meng877/homo_calculator/releases/tag/homo_calculator-11.45.14) | 11.45.14 | 2024/03/09 05:31:37 | 5.21KB | 14 | [下载](https://github.com/meng877/homo_calculator/releases/download/homo_calculator-11.45.14/homo_calculator.mcdr) |
 
 ## hooks
 
