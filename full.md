@@ -2645,7 +2645,7 @@ pip install "psutil>=5.8.0" "websocket-client>=1.6.1"
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 136
+- Total downloads: 137
 - Authors: [iXOR Technology](https://github.com/iXORTech/), [Cubik65536](https://github.com/Cubik65536/)
 - Repository: https://github.com/iXORTech/joinMOTD-Reforged
 - Repository plugin page: https://github.com/iXORTech/joinMOTD-Reforged/tree/main
@@ -2687,7 +2687,7 @@ Features include:
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [joinMOTD-Reforged-v1.0.0+b93f2ec.mcdr](https://github.com/iXORTech/joinMOTD-Reforged/releases/tag/v1.0.0) | 1.0.0 | 2023/12/17 23:07:43 | 5.52KB | 136 | [Download](https://github.com/iXORTech/joinMOTD-Reforged/releases/download/v1.0.0/joinMOTD-Reforged-v1.0.0%2Bb93f2ec.mcdr) |
+| [joinMOTD-Reforged-v1.0.0+b93f2ec.mcdr](https://github.com/iXORTech/joinMOTD-Reforged/releases/tag/v1.0.0) | 1.0.0 | 2023/12/17 23:07:43 | 5.52KB | 137 | [Download](https://github.com/iXORTech/joinMOTD-Reforged/releases/download/v1.0.0/joinMOTD-Reforged-v1.0.0%2Bb93f2ec.mcdr) |
 
 ## jrrp
 
@@ -3182,9 +3182,9 @@ Browse / Import / Export files in the server in Minecraft!
 
 - Plugin ID: `matrix_sync`
 - Plugin Name: MatrixSync
-- Version: 1.0.1
-  - Metadata version: 1.0.1
-  - Release version: 1.0.1
+- Version: 1.0.2
+  - Metadata version: 1.0.2
+  - Release version: 1.0.2
 - Total downloads: 16
 - Authors: [Mooling0602](https://github.com/Mooling0602)
 - Repository: https://github.com/Mooling0602/MatrixSync-MCDR
@@ -3221,9 +3221,9 @@ pip install matrix-nio aiofiles asyncio
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [MatrixSync-v1.0.2.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.2) | 1.0.2 | 2024/04/08 13:08:07 | 3.31KB | 0 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.2/MatrixSync-v1.0.2.mcdr) |
 | [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 1 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
 | [MatrixSync-v1.0.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.0) | 1.0.0 | 2024/03/10 14:01:47 | 2.69KB | 8 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.0/MatrixSync-v1.0.0.mcdr) |
-| [MatrixSync-v0.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/0.1.0) | 0.1.0 | 2024/03/06 05:34:25 | 2.48KB | 7 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/0.1.0/MatrixSync-v0.1.0.mcdr) |
 
 ## mc_uuid
 
@@ -6396,7 +6396,7 @@ Send welcome message
 - Version: 2.2.0+build.12
   - Metadata version: 2.2.0+build.12
   - Release version: 2.2.0+build.12
-- Total downloads: 2356
+- Total downloads: 2357
 - Authors: [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
 - Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
@@ -6432,7 +6432,7 @@ pip install "mcdreforged>=2.1.3"
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 | [WhereIs-v2.2.0+build.12.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.2.0) | 2.2.0+build.12 | 2024/04/07 14:36:41 | 24.39KB | 1 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.2.0/WhereIs-v2.2.0%2Bbuild.12.mcdr) |
-| [WhereIs-v2.1.1+build.9.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.1.1) | 2.1.1+build.9 | 2023/12/12 09:29:58 | 21.97KB | 246 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.1.1/WhereIs-v2.1.1%2Bbuild.9.mcdr) |
+| [WhereIs-v2.1.1+build.9.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.1.1) | 2.1.1+build.9 | 2023/12/12 09:29:58 | 21.97KB | 247 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.1.1/WhereIs-v2.1.1%2Bbuild.9.mcdr) |
 | [WhereIs-v2.1.0+build.8.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.1.0) | 2.1.0+build.8 | 2023/08/02 16:02:22 | 21.11KB | 297 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.1.0/WhereIs-v2.1.0%2Bbuild.8.mcdr) |
 
 ## whisper
