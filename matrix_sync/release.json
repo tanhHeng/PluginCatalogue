@@ -1,15 +1,55 @@
 {
   "schema_version": 8,
   "id": "matrix_sync",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "latest_version_index": 0,
   "releases": [
+    {
+      "url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1",
+      "name": "v1.0.1",
+      "tag_name": "1.0.1",
+      "created_at": "2024-04-08T12:06:39Z",
+      "description": "修复了机器人会重复线上游戏的消息的问题，你需要在新增的配置项中指定 Matrix 机器人的显示名称，以防止机器人发到群组内的消息回音到游戏中。\r\n这是个临时的解决方案，后续将进行优化。",
+      "prerelease": false,
+      "asset": {
+        "id": 160929835,
+        "name": "MatrixSync-v1.0.1.mcdr",
+        "size": 8149,
+        "download_count": 0,
+        "created_at": "2024-04-08T12:09:56Z",
+        "browser_download_url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr",
+        "hash_md5": "4fb52a591fd4b2209abc425913f12f4d",
+        "hash_sha256": "632e645c102fd3dca5d2e96605870df06049564b7657c0017521afa59381f304"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "matrix_sync",
+        "name": "MatrixSync",
+        "version": "1.0.1",
+        "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "matrix-nio",
+          "aiofiles",
+          "asyncio"
+        ],
+        "description": {
+          "en_us": "Sync messages between online game and Matrix groups.",
+          "zh_cn": "同步Matrix群组和线上游戏的消息."
+        }
+      }
+    },
     {
       "url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.0",
       "name": "v1.0.0",
       "tag_name": "1.0.0",
       "created_at": "2024-03-10T14:06:07Z",
-      "description": "# [+] 支持Matrix群组的消息发送到游戏，但需要注意：\r\n- 用于同步消息的Matrix机器人只能加入用于消息同步的房间，否则其他房间的消息也会被发送到游戏；\r\n- 开服后机器人会连带发送Matrix房间内的多条历史消息，请等待后续修复，不影响新消息的同步；\r\n- 插件可能会经常重建线程，能跑就行（大雾）；\r\n- 下个版本将尝试多语言翻译（仅增加英语/English）",
+      "description": "# [+] 支持Matrix群组的消息发送到游戏，但需要注意：\r\n- 用于同步消息的Matrix机器人只能加入用于消息同步的房间，否则其他房间的消息也会被发送到游戏；\r\n- 开服后机器人会连带发送Matrix房间内的多条历史消息，请等待后续修复，不影响新消息的同步；\r\n- 插件可能会经常重建线程，这是个潜在的问题，但目前没有发生明显错误，有问题可issue反馈；\r\n- 下阶段版本将尝试多语言翻译（仅增加英语/English）",
       "prerelease": false,
       "asset": {
         "id": 155913574,
