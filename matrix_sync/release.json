@@ -1,9 +1,49 @@
 {
   "schema_version": 8,
   "id": "matrix_sync",
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "latest_version_index": 0,
   "releases": [
+    {
+      "url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.2",
+      "name": "v1.0.2",
+      "tag_name": "1.0.2",
+      "created_at": "2024-04-08T13:01:10Z",
+      "description": "修复了线程重建问题，插件的运行将更加稳定。\r\n",
+      "prerelease": false,
+      "asset": {
+        "id": 160938832,
+        "name": "MatrixSync-v1.0.2.mcdr",
+        "size": 3391,
+        "download_count": 0,
+        "created_at": "2024-04-08T13:08:07Z",
+        "browser_download_url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.2/MatrixSync-v1.0.2.mcdr",
+        "hash_md5": "89930f54222ea5539c33070620820060",
+        "hash_sha256": "580f148d10098607a54b50adc31347c5cb571a5ee65ee075cb90b97fe0b16118"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "matrix_sync",
+        "name": "MatrixSync",
+        "version": "1.0.2",
+        "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "matrix-nio",
+          "aiofiles",
+          "asyncio"
+        ],
+        "description": {
+          "en_us": "Sync messages between online game and Matrix groups.",
+          "zh_cn": "同步Matrix群组和线上游戏的消息."
+        }
+      }
+    },
     {
       "url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1",
       "name": "v1.0.1",
