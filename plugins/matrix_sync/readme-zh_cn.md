@@ -8,9 +8,9 @@
 
 - 插件 ID: `matrix_sync`
 - 插件名: MatrixSync
-- 版本: 1.0.0
-  - 元数据版本: 1.0.0
-  - 发布版本: 1.0.0
+- 版本: 1.0.1
+  - 元数据版本: 1.0.1
+  - 发布版本: 1.0.1
 - 总下载量: 15
 - 作者: [Mooling0602](https://github.com/Mooling0602)
 - 仓库: https://github.com/Mooling0602/MatrixSync-MCDR
@@ -54,7 +54,7 @@ pip install matrix-nio aiofiles asyncio
 - 首次加载插件会初始化配置并自动卸载插件，你需要修改完默认配置后，重启服务器或重载插件才能正常使用。
 - 不打算支持加密信息（EE2E），有需要自行修改。
 - i18n将在正式版本（v1.1.0）以后得到支持。
-- 房间消息转发到游戏内的功能还在开发，由于看不懂文档，可能还需要很长时间。
+- 房间消息转发到游戏内的功能初步开发完成，但由于看不懂文档，完善可能还需要很长时间。请查看随Release发布的更新日志了解相关的注意事项。
 - For English(and other languages) users, you need to use translate tools at present.
 
 ### 下载
@@ -64,6 +64,7 @@ pip install matrix-nio aiofiles asyncio
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 0 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
 | [MatrixSync-v1.0.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.0) | 1.0.0 | 2024/03/10 14:01:47 | 2.69KB | 8 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.0/MatrixSync-v1.0.0.mcdr) |
 | [MatrixSync-v0.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/0.1.0) | 0.1.0 | 2024/03/06 05:34:25 | 2.48KB | 7 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/0.1.0/MatrixSync-v0.1.0.mcdr) |
 
