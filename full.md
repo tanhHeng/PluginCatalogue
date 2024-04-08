@@ -3185,7 +3185,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Total downloads: 15
+- Total downloads: 16
 - Authors: [Mooling0602](https://github.com/Mooling0602)
 - Repository: https://github.com/Mooling0602/MatrixSync-MCDR
 - Repository plugin page: https://github.com/Mooling0602/MatrixSync-MCDR/tree/master
@@ -3221,7 +3221,7 @@ pip install matrix-nio aiofiles asyncio
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 0 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
+| [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 1 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
 | [MatrixSync-v1.0.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.0) | 1.0.0 | 2024/03/10 14:01:47 | 2.69KB | 8 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.0/MatrixSync-v1.0.0.mcdr) |
 | [MatrixSync-v0.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/0.1.0) | 0.1.0 | 2024/03/06 05:34:25 | 2.48KB | 7 | [Download](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/0.1.0/MatrixSync-v0.1.0.mcdr) |
 

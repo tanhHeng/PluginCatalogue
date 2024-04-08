@@ -11,7 +11,7 @@
 - 版本: 1.0.1
   - 元数据版本: 1.0.1
   - 发布版本: 1.0.1
-- 总下载量: 15
+- 总下载量: 16
 - 作者: [Mooling0602](https://github.com/Mooling0602)
 - 仓库: https://github.com/Mooling0602/MatrixSync-MCDR
 - 仓库插件页: https://github.com/Mooling0602/MatrixSync-MCDR/tree/master
@@ -64,7 +64,7 @@ pip install matrix-nio aiofiles asyncio
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 0 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
+| [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 1 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
 | [MatrixSync-v1.0.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.0) | 1.0.0 | 2024/03/10 14:01:47 | 2.69KB | 8 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.0/MatrixSync-v1.0.0.mcdr) |
 | [MatrixSync-v0.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/0.1.0) | 0.1.0 | 2024/03/06 05:34:25 | 2.48KB | 7 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/0.1.0/MatrixSync-v0.1.0.mcdr) |
 
