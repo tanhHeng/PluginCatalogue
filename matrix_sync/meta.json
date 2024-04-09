@@ -2,7 +2,7 @@
   "schema_version": 4,
   "id": "matrix_sync",
   "name": "MatrixSync",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
   "authors": [
     "Mooling0602"
@@ -17,6 +17,6 @@
   ],
   "description": {
     "en_us": "Sync messages between online game and Matrix groups.",
-    "zh_cn": "同步Matrix群组和线上游戏的消息."
+    "zh_cn": "同步Matrix群组和线上游戏的消息。"
   }
 }

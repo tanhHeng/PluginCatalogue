@@ -3,7 +3,7 @@
     "schema_version": 4,
     "id": "matrix_sync",
     "name": "MatrixSync",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
     "authors": [
       "Mooling0602"
@@ -18,7 +18,7 @@
     ],
     "description": {
       "en_us": "Sync messages between online game and Matrix groups.",
-      "zh_cn": "同步Matrix群组和线上游戏的消息."
+      "zh_cn": "同步Matrix群组和线上游戏的消息。"
     }
   },
   "plugin": {
@@ -35,15 +35,55 @@
       "information"
     ],
     "introduction": {
-      "zh_cn": "# MatrixSync-MCDR\n一个MCDR（全称[MCDReforged](https://mcdreforged.com/)）插件，用于同步Matrix群组和线上游戏之间的消息。\n\n关于[Matrix](https://matrix.org/)：一个开放的去中心化的网络通讯协议，用于聊天软件。\n\n开发过程中使用了pypi中的项目[matrix-nio](https://pypi.org/project/matrix-nio/)。\n\n当前已完成预览开发版本，支持线上游戏的消息上报到群组中，详情可以先看看issue。\n\n## 用法\n从Release下载最新版本，甩到plugins文件夹或你设置的存放插件的文件夹内，然后注意控制台输出的提示即可。\n\n## 注意\n- 首次加载插件会初始化配置并自动卸载插件，你需要修改完默认配置后，重启服务器或重载插件才能正常使用。\n- 不打算支持加密信息（EE2E），有需要自行修改。\n- i18n将在正式版本（v1.1.0）以后得到支持。\n- 房间消息转发到游戏内的功能初步开发完成，但由于看不懂文档，完善可能还需要很长时间。请查看随Release发布的更新日志了解相关的注意事项。\n- For English(and other languages) users, you need to use translate tools at present.\n"
+      "zh_cn": "- 中文\n- English\n\n# MatrixSync-MCDR\nA MCDR (full name [MCDReforged](https://mcdreforged.com/)) plugin, use to sync messages between Matrix groups and online gaming in Minecraft servers.\n\nAbout [Matrix](https://matrix.org/): an open decentralized network communication protocol for chat software.\n\nThe following project is used in the development process: [matrix-nio](https://pypi.org/project/matrix-nio/)。\n\n## Usage\nDownload the latest version in release, put it in the plugins folder, then follow the prompts in the plugin output in the console to modify the configuration file and reload the plugin, until test message \nis successfully sent to the matrix groups and message-sync will start working.\nBefore you using this plugin, you must know what [Matrix] is, and prepare an account to use to be a matrix bot for sync messages. In the config, \"user\" actually means the bot.\n\n## Attention\n- The first time you load this plugin, it will init the config and automatically unload itself. You need to modify the default config correctly, restart the server or reload the plugin to use it normally.\n- There's no any plans to support encrypted messages(EE2E), if you need you should modify this plugins by yourself.\n- I18n currently only support Chinese(Simplified) and English(translated from Chinese with Google Translate), everyone can help with traslations and contact me.\n- About room-message receiver, please see the following section.\n\n## Matrix Room-message receiver\nIt's easy to forward in-game messages to the matrix rooms by listening MCDR Event \"User Info\", and plugin is designed to forward the obtained game messages to the specified matrix room when listening to this event.\nHowever, to forward messages in the matrix room to the game, there's no listenable event that can be used directly. So the plugins uses an async func to run a loop event for receiving messages from matrix rooms.\nDuring the development process, the content about this part in the matrix-nio documention is obscure and difficult to understand for me.\nCurrently, the plugin can send game messages to specified matrix rooms, but cannot specify which matrix rooms to receive chat messages from. When forwarding a game message to the matrix room, echo messages will be generated and finally forwarded back to the game.\n**To fix the \"echo messages\" problem, a temporary solution was used in v1.0.1+, and you have to set the bot's display name in the config.** It's possible to get the display name directly using the API provided by matrix-nio, but I find it difficult to understand their documention. I'll improve this after I get it.\nAnyway, this feature is fuctional now, but there are still a lot of issues.\nIt would be great if someone would like to help improve this program.\n"
     }
   },
   "release": {
     "schema_version": 8,
     "id": "matrix_sync",
-    "latest_version": "1.0.2",
+    "latest_version": "1.1.0",
     "latest_version_index": 0,
     "releases": [
+      {
+        "url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.1.0",
+        "name": "v1.1.0",
+        "tag_name": "1.1.0",
+        "created_at": "2024-04-09T12:32:34Z",
+        "description": "[+] 支持多语言\r\n[+] I18n support\r\n",
+        "prerelease": false,
+        "asset": {
+          "id": 161130187,
+          "name": "MatrixSync-v1.1.0.mcdr",
+          "size": 5019,
+          "download_count": 0,
+          "created_at": "2024-04-09T12:41:10Z",
+          "browser_download_url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.1.0/MatrixSync-v1.1.0.mcdr",
+          "hash_md5": "a2f48648d9be309bd0f456ead8bf8b48",
+          "hash_sha256": "2e2f8364a5aaf90a3b2dbc1d96bcfa14951046556a6da7701af213ceb6e79f38"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "matrix_sync",
+          "name": "MatrixSync",
+          "version": "1.1.0",
+          "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
+          "authors": [
+            "Mooling0602"
+          ],
+          "dependencies": {
+            "mcdreforged": ">=2.1.0"
+          },
+          "requirements": [
+            "matrix-nio",
+            "aiofiles",
+            "asyncio"
+          ],
+          "description": {
+            "en_us": "Sync messages between online game and Matrix groups.",
+            "zh_cn": "同步Matrix群组和线上游戏的消息。"
+          }
+        }
+      },
       {
         "url": "https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.2",
         "name": "v1.0.2",
@@ -215,7 +255,7 @@
     "stargazers_count": 0,
     "watchers_count": 0,
     "forks_count": 0,
-    "readme": "# MatrixSync-MCDR\n一个MCDR（全称[MCDReforged](https://mcdreforged.com/)）插件，用于同步Matrix群组和线上游戏之间的消息。\n\n关于[Matrix](https://matrix.org/)：一个开放的去中心化的网络通讯协议，用于聊天软件。\n\n开发过程中使用了pypi中的项目[matrix-nio](https://pypi.org/project/matrix-nio/)。\n\n当前已完成预览开发版本，支持线上游戏的消息上报到群组中，详情可以先看看issue。\n\n## 用法\n从Release下载最新版本，甩到plugins文件夹或你设置的存放插件的文件夹内，然后注意控制台输出的提示即可。\n\n## 注意\n- 首次加载插件会初始化配置并自动卸载插件，你需要修改完默认配置后，重启服务器或重载插件才能正常使用。\n- 不打算支持加密信息（EE2E），有需要自行修改。\n- i18n将在正式版本（v1.1.0）以后得到支持。\n- 房间消息转发到游戏内的功能初步开发完成，但由于看不懂文档，完善可能还需要很长时间。请查看随Release发布的更新日志了解相关的注意事项。\n- For English(and other languages) users, you need to use translate tools at present.\n",
+    "readme": "- 中文\n- English\n\n# MatrixSync-MCDR\nA MCDR (full name [MCDReforged](https://mcdreforged.com/)) plugin, use to sync messages between Matrix groups and online gaming in Minecraft servers.\n\nAbout [Matrix](https://matrix.org/): an open decentralized network communication protocol for chat software.\n\nThe following project is used in the development process: [matrix-nio](https://pypi.org/project/matrix-nio/)。\n\n## Usage\nDownload the latest version in release, put it in the plugins folder, then follow the prompts in the plugin output in the console to modify the configuration file and reload the plugin, until test message \nis successfully sent to the matrix groups and message-sync will start working.\nBefore you using this plugin, you must know what [Matrix] is, and prepare an account to use to be a matrix bot for sync messages. In the config, \"user\" actually means the bot.\n\n## Attention\n- The first time you load this plugin, it will init the config and automatically unload itself. You need to modify the default config correctly, restart the server or reload the plugin to use it normally.\n- There's no any plans to support encrypted messages(EE2E), if you need you should modify this plugins by yourself.\n- I18n currently only support Chinese(Simplified) and English(translated from Chinese with Google Translate), everyone can help with traslations and contact me.\n- About room-message receiver, please see the following section.\n\n## Matrix Room-message receiver\nIt's easy to forward in-game messages to the matrix rooms by listening MCDR Event \"User Info\", and plugin is designed to forward the obtained game messages to the specified matrix room when listening to this event.\nHowever, to forward messages in the matrix room to the game, there's no listenable event that can be used directly. So the plugins uses an async func to run a loop event for receiving messages from matrix rooms.\nDuring the development process, the content about this part in the matrix-nio documention is obscure and difficult to understand for me.\nCurrently, the plugin can send game messages to specified matrix rooms, but cannot specify which matrix rooms to receive chat messages from. When forwarding a game message to the matrix room, echo messages will be generated and finally forwarded back to the game.\n**To fix the \"echo messages\" problem, a temporary solution was used in v1.0.1+, and you have to set the bot's display name in the config.** It's possible to get the display name directly using the API provided by matrix-nio, but I find it difficult to understand their documention. I'll improve this after I get it.\nAnyway, this feature is fuctional now, but there are still a lot of issues.\nIt would be great if someone would like to help improve this program.\n",
     "readme_url": "https://raw.githubusercontent.com/Mooling0602/MatrixSync-MCDR/master/README.md"
   }
 }
