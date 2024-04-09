@@ -9,14 +9,14 @@
 - Plugin ID: `mcdr_announcements`
 - Plugin Name: Announcements
 - Version: 1.2.2
-  - Metadata version: 1.2.2
+  - Metadata version: 1.3.0
   - Release version: 1.2.2
 - Total downloads: 76
 - Authors: [dodo939](https://github.com/yfy-dodo939)
 - Repository: https://github.com/yfy-dodo939/mcdr_announcements
 - Repository plugin page: https://github.com/yfy-dodo939/mcdr_announcements/tree/main/latest
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: A plugin running on MCDR to send announcements regularly.
+- Description: A plugin running on MCDR to send announcements on time.
 
 ### Dependencies
 

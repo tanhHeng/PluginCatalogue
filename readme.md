@@ -75,7 +75,7 @@ Plugin Amount: 116
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme.md) |
 | [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | Show laziness rank easily | 2024/02/27 | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | A plugin to show tasks of project in progress | 2024/02/07 | [`Tool`](/labels/tool/readme.md) |
-| [Announcements](/plugins/mcdr_announcements/readme.md) | [dodo939](https://github.com/yfy-dodo939) | A plugin running on MCDR to send announcements regularly. | 2023/12/13 | [`Information`](/labels/information/readme.md) |
+| [Announcements](/plugins/mcdr_announcements/readme.md) | [dodo939](https://github.com/yfy-dodo939) | A plugin running on MCDR to send announcements on time. | 2023/12/13 | [`Information`](/labels/information/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | 2021/08/19 | [`Tool`](/labels/tool/readme.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | 2023/04/14 | [`Management`](/labels/management/readme.md) |
 | [MCDRpost](/plugins/mcdrpost/readme.md) | [Flyky](https://github.com/Flyky) | A MCDR plugin for post/teleport items | 2022/06/16 | [`Tool`](/labels/tool/readme.md) |

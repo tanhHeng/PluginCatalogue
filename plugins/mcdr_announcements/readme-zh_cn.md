@@ -9,14 +9,14 @@
 - 插件 ID: `mcdr_announcements`
 - 插件名: Announcements
 - 版本: 1.2.2
-  - 元数据版本: 1.2.2
+  - 元数据版本: 1.3.0
   - 发布版本: 1.2.2
 - 总下载量: 76
 - 作者: [dodo939](https://github.com/yfy-dodo939)
 - 仓库: https://github.com/yfy-dodo939/mcdr_announcements
 - 仓库插件页: https://github.com/yfy-dodo939/mcdr_announcements/tree/main/latest
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: A plugin running on MCDR to send announcements regularly.
+- 描述: A plugin running on MCDR to send announcements on time.
 
 ### 插件依赖
 

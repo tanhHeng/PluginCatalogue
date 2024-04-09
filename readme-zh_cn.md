@@ -75,7 +75,7 @@
 | [Minecraft UUID API](/plugins/mc_uuid/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Seen](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | Show laziness rank easily | 2024/02/27 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | 用于展示进行中的工程任务的插件 | 2024/02/07 | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Announcements](/plugins/mcdr_announcements/readme-zh_cn.md) | [dodo939](https://github.com/yfy-dodo939) | A plugin running on MCDR to send announcements regularly. | 2023/12/13 | [`信息`](/labels/information/readme-zh_cn.md) |
+| [Announcements](/plugins/mcdr_announcements/readme-zh_cn.md) | [dodo939](https://github.com/yfy-dodo939) | A plugin running on MCDR to send announcements on time. | 2023/12/13 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | 2021/08/19 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2023/04/14 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MCDRpost](/plugins/mcdrpost/readme-zh_cn.md) | [Flyky](https://github.com/Flyky) | 一个用于邮寄/传送物品的MCDR插件 | 2022/06/16 | [`工具`](/labels/tool/readme-zh_cn.md) |
