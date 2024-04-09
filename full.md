@@ -3326,7 +3326,7 @@ Shows tasks of project in progress
 - Version: 2.3.6+build.240207
   - Metadata version: 2.3.6-dev+build.68
   - Release version: 2.3.6+build.240207
-- Total downloads: 4270
+- Total downloads: 4271
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki)
 - Repository: https://github.com/TISUnion/Task
 - Repository plugin page: https://github.com/TISUnion/Task/tree/master
@@ -3361,7 +3361,7 @@ Shows tasks of project in progress
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Task-v2.3.6+build.240207.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.6) | 2.3.6+build.240207 | 2024/02/07 02:04:17 | 18.62KB | 92 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.6/Task-v2.3.6%2Bbuild.240207.mcdr) |
+| [Task-v2.3.6+build.240207.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.6) | 2.3.6+build.240207 | 2024/02/07 02:04:17 | 18.62KB | 93 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.6/Task-v2.3.6%2Bbuild.240207.mcdr) |
 | [Task-v2.3.5+build.67.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.5) | 2.3.5+build.67 | 2022/12/15 01:59:58 | 18.48KB | 742 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.5/Task-v2.3.5%2Bbuild.67.mcdr) |
 | [Task-v2.3.4+build.66.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.4) | 2.3.4+build.66 | 2022/11/10 16:35:38 | 18.45KB | 134 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.4/Task-v2.3.4%2Bbuild.66.mcdr) |
 
@@ -4292,7 +4292,7 @@ pip install "mcdreforged>=2.0.0"
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 230
+- Total downloads: 232
 - Authors: [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/Aimerny/OfflineWhitelistReforged
 - Repository plugin page: https://github.com/Aimerny/OfflineWhitelistReforged/tree/main
@@ -4350,7 +4350,7 @@ pip install "mcdreforged>=2.6.0"
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OfflineWhitelistReforged-v1.0.0.mcdr](https://github.com/Aimerny/OfflineWhitelistReforged/releases/tag/v1.0.0) | 1.0.0 | 2023/06/15 09:30:39 | 4.31KB | 230 | [Download](https://github.com/Aimerny/OfflineWhitelistReforged/releases/download/v1.0.0/OfflineWhitelistReforged-v1.0.0.mcdr) |
+| [OfflineWhitelistReforged-v1.0.0.mcdr](https://github.com/Aimerny/OfflineWhitelistReforged/releases/tag/v1.0.0) | 1.0.0 | 2023/06/15 09:30:39 | 4.31KB | 232 | [Download](https://github.com/Aimerny/OfflineWhitelistReforged/releases/download/v1.0.0/OfflineWhitelistReforged-v1.0.0.mcdr) |
 
 ## onebot_api
 
