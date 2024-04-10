@@ -3100,7 +3100,7 @@ pip install "mcdreforged>=2.0.0b7" requests
 - 版本: 0.6.10
   - 元数据版本: 0.6.7
   - 发布版本: 0.6.10
-- 总下载量: 841
+- 总下载量: 842
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
 - 仓库插件页: https://github.com/kmcsr/login_proxy_mcdr/tree/master
