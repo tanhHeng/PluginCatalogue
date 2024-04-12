@@ -9,7 +9,7 @@
       "name": "v1.4.1",
       "tag_name": "v1.4.1",
       "created_at": "2024-03-27T21:45:11Z",
-      "description": "### 本次更新日志\r\n### GUI\r\n\r\n- 优化了UI，使它的显示更美观整洁。\r\n![{B1ED64E3-BA68-4fcf-9DD1-D707FFE41E99}](https://github.com/XiaoYeYa/ye_announcement/assets/124911800/74b20500-1e19-4ea6-9fe5-8a36bef67ccc)\r\n\r\n\r\n### 功能更新\r\n\r\n- 修复了已知的一些使用的问题。\r\n- 支持在公告中添加换行符或颜色字符串。\r\n- 支持更改公告显示的服务器名称。可在MCDR目录的`config`文件夹里的`announcements.json`中更改显示服务器名称。\r\n- 支持直接在配置文件中输入中文字符作为服务器名称，而不是作为字符串。\r\n\r\n### 命令更新\r\n\r\n- 添加新命令 `!!gr`，用于重载配置文件。",
+      "description": "### 本次更新日志\r\n## GUI\r\n\r\n- 优化了UI，使它的显示更美观整洁。\r\n![{B1ED64E3-BA68-4fcf-9DD1-D707FFE41E99}](https://github.com/XiaoYeYa/ye_announcement/assets/124911800/74b20500-1e19-4ea6-9fe5-8a36bef67ccc)\r\n\r\n\r\n## 功能更新\r\n\r\n- 修复了已知的一些使用的问题。\r\n- 支持在公告中添加换行符或颜色字符串。\r\n- 支持更改公告显示的服务器名称。可在MCDR目录的`config`文件夹里的`announcements.json`中更改显示服务器名称。\r\n- 支持直接在配置文件中输入中文字符作为服务器名称，而不是作为字符串。\r\n\r\n## 命令更新\r\n\r\n- 添加新命令 `!!gr`，用于重载配置文件。",
       "prerelease": false,
       "asset": {
         "id": 161542550,
