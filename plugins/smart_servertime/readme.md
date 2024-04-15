@@ -11,7 +11,7 @@
 - Version: 1.3.9
   - Metadata version: 1.3.8
   - Release version: 1.3.9
-- Total downloads: 571
+- Total downloads: 572
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
 - Repository plugin page: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
@@ -52,7 +52,7 @@
 | [SmartServerTime-v1.3.2.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.2) | 1.3.2 | 2024/02/03 22:44:44 | 17.42KB | 6 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.2/SmartServerTime-v1.3.2.mcdr) |
 | [SmartServerTime-v1.3.1.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.1) | 1.3.1 | 2024/02/03 20:27:59 | 17.58KB | 11 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.1/SmartServerTime-v1.3.1.mcdr) |
 | [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 230 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
-| [SmartServerTime-v1.2.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.4) | 1.2.4 | 2022/11/22 00:58:06 | 17.54KB | 26 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.4/SmartServerTime-v1.2.4.mcdr) |
+| [SmartServerTime-v1.2.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.4) | 1.2.4 | 2022/11/22 00:58:06 | 17.54KB | 27 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.4/SmartServerTime-v1.2.4.mcdr) |
 | [SmartServerTime-v1.2.3.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.3) | 1.2.3 | 2022/11/20 20:44:57 | 17.49KB | 24 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.3/SmartServerTime-v1.2.3.mcdr) |
 | [SmartServerTime-v1.2.2.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.2) | 1.2.2 | 2022/11/20 20:34:21 | 17.48KB | 11 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.2/SmartServerTime-v1.2.2.mcdr) |
 | [SmartServerTime-v1.2.1.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/11/20 20:00:33 | 17.48KB | 12 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.1/SmartServerTime-v1.2.1.mcdr) |
