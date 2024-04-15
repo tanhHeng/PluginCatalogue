@@ -11,7 +11,7 @@
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 23
+- 总下载量: 24
 - 作者: [Mooling0602](https://github.com/Mooling0602)
 - 仓库: https://github.com/Mooling0602/MatrixSync-MCDR
 - 仓库插件页: https://github.com/Mooling0602/MatrixSync-MCDR/tree/master
@@ -81,7 +81,7 @@ It would be great if someone would like to help improve this program.
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MatrixSync-v1.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.1.0) | 1.1.0 | 2024/04/09 12:41:10 | 4.9KB | 6 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.1.0/MatrixSync-v1.1.0.mcdr) |
+| [MatrixSync-v1.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.1.0) | 1.1.0 | 2024/04/09 12:41:10 | 4.9KB | 7 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.1.0/MatrixSync-v1.1.0.mcdr) |
 | [MatrixSync-v1.0.2.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.2) | 1.0.2 | 2024/04/08 13:08:07 | 3.31KB | 1 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.2/MatrixSync-v1.0.2.mcdr) |
 | [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 1 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
 | [MatrixSync-v1.0.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.0) | 1.0.0 | 2024/03/10 14:01:47 | 2.69KB | 8 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.0/MatrixSync-v1.0.0.mcdr) |
