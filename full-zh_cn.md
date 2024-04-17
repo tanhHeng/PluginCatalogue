@@ -3188,7 +3188,7 @@ pip install "mcdreforged>=2.0.0b7" requests
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 25
+- 总下载量: 26
 - 作者: [Mooling0602](https://github.com/Mooling0602)
 - 仓库: https://github.com/Mooling0602/MatrixSync-MCDR
 - 仓库插件页: https://github.com/Mooling0602/MatrixSync-MCDR/tree/master
@@ -3258,7 +3258,7 @@ It would be great if someone would like to help improve this program.
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MatrixSync-v1.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.1.0) | 1.1.0 | 2024/04/09 12:41:10 | 4.9KB | 8 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.1.0/MatrixSync-v1.1.0.mcdr) |
+| [MatrixSync-v1.1.0.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.1.0) | 1.1.0 | 2024/04/09 12:41:10 | 4.9KB | 9 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.1.0/MatrixSync-v1.1.0.mcdr) |
 | [MatrixSync-v1.0.2.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.2) | 1.0.2 | 2024/04/08 13:08:07 | 3.31KB | 1 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.2/MatrixSync-v1.0.2.mcdr) |
 | [MatrixSync-v1.0.1.mcdr](https://github.com/Mooling0602/MatrixSync-MCDR/releases/tag/1.0.1) | 1.0.1 | 2024/04/08 12:09:56 | 7.96KB | 1 | [下载](https://github.com/Mooling0602/MatrixSync-MCDR/releases/download/1.0.1/MatrixSync-v1.0.1.mcdr) |
 
@@ -4080,7 +4080,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 - 版本: 1.3.0
   - 元数据版本: 1.3.0
   - 发布版本: 1.3.0
-- 总下载量: 745
+- 总下载量: 746
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MirrorSyncReforged
 - 仓库插件页: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
@@ -4109,7 +4109,7 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 447 | [下载](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
+| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 448 | [下载](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
 | [MirrorSyncReforged-v1.2.2.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2) | 1.2.2 | 2022/06/26 10:33:41 | 5.01KB | 100 | [下载](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.2/MirrorSyncReforged-v1.2.2.mcdr) |
 | [MirrorSyncReforged-v1.2.1.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1) | 1.2.1 | 2022/04/07 09:33:53 | 5.03KB | 127 | [下载](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr) |
 
