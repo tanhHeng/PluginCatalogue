@@ -2,7 +2,7 @@
   "schema_version": 4,
   "id": "prime_backup",
   "name": "Prime Backup",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "link": "https://github.com/TISUnion/PrimeBackup",
   "authors": [
     "Fallen_Breath"
