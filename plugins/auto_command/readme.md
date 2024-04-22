@@ -7,33 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `auto_command`
-- Plugin Name: Auto Command
-- Version: 1.3.0
-  - Metadata version: 1.3.0
-  - Release version: 1.3.0
+- Version: *Data fetching failed*
 - Total downloads: 155
 - Authors: [bzyyyyyyyy](https://github.com/bzyyyyyyyy)
 - Repository: https://github.com/bzyyyyyyyy/MCDR-AutoCommand
 - Repository plugin page: https://github.com/bzyyyyyyyy/MCDR-AutoCommand/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: A plugin that send send commands automaticly
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.0 |
-
-```
-pip install "mcdreforged>=2.1.0"
-```
+*Data fetching failed*
 
 ### Introduction
 
