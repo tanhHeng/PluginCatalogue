@@ -1,9 +1,50 @@
 {
   "schema_version": 8,
   "id": "pcrc",
-  "latest_version": "1.4.0",
+  "latest_version": "1.4.1",
   "latest_version_index": 0,
   "releases": [
+    {
+      "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.1",
+      "name": "PCRC v1.4.1",
+      "tag_name": "v1.4.1",
+      "created_at": "2024-04-23T03:38:02Z",
+      "description": "- Fixed mcdr packages import path to ensure it works in new MCDR versions\r\n- Use python3.11 for `.exe` packaging\r\n",
+      "prerelease": false,
+      "asset": {
+        "id": 163678182,
+        "name": "PCRC.pyz",
+        "size": 105437,
+        "download_count": 0,
+        "created_at": "2024-04-23T03:48:16Z",
+        "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.1/PCRC.pyz",
+        "hash_md5": "135011f2f2a26af6b3a2cda2074d744b",
+        "hash_sha256": "cc2b14322a3691471ccacefd63b06de77a2a9d4c69f48da6fffee5c6e1ab92c0"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.4.1",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      }
+    },
     {
       "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.0",
       "name": "PCRC v1.4.0",
