@@ -4694,7 +4694,7 @@ Database-based Carpet fake player management
 - Version: 1.7.4
   - Metadata version: 1.7.4
   - Release version: 1.7.4
-- Total downloads: 1251
+- Total downloads: 1252
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/PrimeBackup
 - Repository plugin page: https://github.com/TISUnion/PrimeBackup/tree/master
