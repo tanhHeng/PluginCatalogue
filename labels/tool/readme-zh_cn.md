@@ -33,7 +33,7 @@
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme-zh_cn.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [EULAgree](/plugins/eulagree/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 我总是同意EULA，不要问我 | 2022/12/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
-| [FastBotSpawn](/plugins/fbs_plugin/readme-zh_cn.md) | [WalkerTian](https://github.com/Walkersifolia) | A plugin with multiple functions | 2023/09/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [FastBotSpawn](/plugins/fbs_plugin/readme-zh_cn.md) | [WalkerTian](https://github.com/Walkersifolia) | A plugin with multiple functions | 2024/04/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Gamemode](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 旁观者模式以旁观，返回生存时传送回原坐标 | 2023/12/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [homo_calculator](/plugins/homo_calculator/readme-zh_cn.md) | [meng877](https://github.com/meng877) | homo_calculator | 2024/03/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Jrrp](/plugins/jrrp/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 《今日人品》 | 2022/08/28 | [`工具`](/labels/tool/readme-zh_cn.md) |

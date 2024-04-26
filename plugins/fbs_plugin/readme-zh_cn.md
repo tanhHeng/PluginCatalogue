@@ -8,9 +8,9 @@
 
 - 插件 ID: `fbs_plugin`
 - 插件名: FastBotSpawn
-- 版本: 1.1.1
-  - 元数据版本: 1.1.1
-  - 发布版本: 1.1.1
+- 版本: 1.1.2
+  - 元数据版本: 1.1.2
+  - 发布版本: 1.1.2
 - 总下载量: 141
 - 作者: [WalkerTian](https://github.com/Walkersifolia)
 - 仓库: https://github.com/Walkersifolia/FastBotSpawn
@@ -39,6 +39,7 @@
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [FastBotSpawn-v1.1.2.mcdr](https://github.com/Walkersifolia/FastBotSpawn/releases/tag/1.1.2) | 1.1.2 | 2024/04/26 13:05:38 | 2.52KB | 0 | [下载](https://github.com/Walkersifolia/FastBotSpawn/releases/download/1.1.2/FastBotSpawn-v1.1.2.mcdr) |
 | [FastBotSpawn-v1.1.1.mcdr](https://github.com/Walkersifolia/FastBotSpawn/releases/tag/1.1.1) | 1.1.1 | 2023/09/23 17:49:10 | 2.52KB | 96 | [下载](https://github.com/Walkersifolia/FastBotSpawn/releases/download/1.1.1/FastBotSpawn-v1.1.1.mcdr) |
 | [FastBotSpawn-v1.1.0.mcdr](https://github.com/Walkersifolia/FastBotSpawn/releases/tag/1.1.0) | 1.1.0 | 2023/07/14 17:12:08 | 2.48KB | 45 | [下载](https://github.com/Walkersifolia/FastBotSpawn/releases/download/1.1.0/FastBotSpawn-v1.1.0.mcdr) |
 

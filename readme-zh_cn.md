@@ -49,7 +49,7 @@
 | [EULAgree](/plugins/eulagree/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 我总是同意EULA，不要问我 | 2022/12/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [FastAPI MCDR](/plugins/fastapi_mcdr/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供 HTTP API。 | 2023/12/21 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
-| [FastBotSpawn](/plugins/fbs_plugin/readme-zh_cn.md) | [WalkerTian](https://github.com/Walkersifolia) | A plugin with multiple functions | 2023/09/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [FastBotSpawn](/plugins/fbs_plugin/readme-zh_cn.md) | [WalkerTian](https://github.com/Walkersifolia) | A plugin with multiple functions | 2024/04/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Gamemode](/plugins/gamemode/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 旁观者模式以旁观，返回生存时传送回原坐标 | 2023/12/26 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Here](/plugins/here/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/Ra1ny-Yuki) | 显示坐标并高亮玩家 | 2021/11/05 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [HibernateR](/plugins/hibernate_r/readme-zh_cn.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2024/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
