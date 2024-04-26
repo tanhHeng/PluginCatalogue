@@ -3,7 +3,7 @@
     "schema_version": 4,
     "id": "fbs_plugin",
     "name": "FastBotSpawn",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "link": "https://github.com/Walkersifolia/FastBotSpawn",
     "authors": [
       "WalkerTian"
@@ -31,9 +31,42 @@
   "release": {
     "schema_version": 8,
     "id": "fbs_plugin",
-    "latest_version": "1.1.1",
+    "latest_version": "1.1.2",
     "latest_version_index": 0,
     "releases": [
+      {
+        "url": "https://github.com/Walkersifolia/FastBotSpawn/releases/tag/1.1.2",
+        "name": "v1.1.2",
+        "tag_name": "1.1.2",
+        "created_at": "2024-04-26T13:04:09Z",
+        "description": "更正了帮助文本\r\n\r\n我知道这个更新很水（）",
+        "prerelease": false,
+        "asset": {
+          "id": 164398052,
+          "name": "FastBotSpawn-v1.1.2.mcdr",
+          "size": 2582,
+          "download_count": 0,
+          "created_at": "2024-04-26T13:05:38Z",
+          "browser_download_url": "https://github.com/Walkersifolia/FastBotSpawn/releases/download/1.1.2/FastBotSpawn-v1.1.2.mcdr",
+          "hash_md5": "493424948f9a41203a1b6e7fa5be8f40",
+          "hash_sha256": "f6b7f8c0bef9b9890787da7245fc19a325931392b7d273e66ae8c59626973146"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "fbs_plugin",
+          "name": "FastBotSpawn",
+          "version": "1.1.2",
+          "link": "https://github.com/Walkersifolia/FastBotSpawn",
+          "authors": [
+            "WalkerTian"
+          ],
+          "dependencies": {},
+          "requirements": [],
+          "description": {
+            "en_us": "A plugin with multiple functions"
+          }
+        }
+      },
       {
         "url": "https://github.com/Walkersifolia/FastBotSpawn/releases/tag/1.1.1",
         "name": "v1.1.1",
@@ -111,7 +144,7 @@
     "stargazers_count": 4,
     "watchers_count": 4,
     "forks_count": 0,
-    "readme": "# FastBotSpawn\n-----\n\n一个[MCDReforged](https://github.com/Fallen-Breath/MCDReforged)插件，可以批量召唤假人并设置前缀，最好与fabric-carpet的配置项fakePlayerNamePrefix保持一致。\n\n依赖于fabric-carpet\n\n### 指令\n```\n!!b set bot_ 设置前缀，bot_可替换，推荐和Carpet配置同步，没有就留空\n!!b set limit [number] 设置最大生成数量，默认为10\n!!b clear 清除设置的前缀\n!!b spawn [mini] [max] 批量召唤假人\n!!b drop [mini] [max] 批量控制丢出全部物品\n!!b kill [mini] [max] 批量下线假人\n[mini] [max] 是最小和最大的序号，差值不能超过10，不写默认为1-10\n```\n\n### 示例\n![GA)Y0LERWPY@BVKVE{V`JOS](https://github.com/Walkersifolia/FastBotSpawn/assets/129571444/b0daa1f5-a441-4cdc-baf0-6395441c83a8)\n\n",
+    "readme": "# FastBotSpawn\n-----\n\n一个[MCDReforged](https://github.com/Fallen-Breath/MCDReforged)插件，可以批量召唤假人并设置前缀，最好与fabric-carpet的配置项fakePlayerNamePrefix保持一致。\n\n依赖于fabric-carpet\n\n### 指令\n```\n!!b set bot_ 设置前缀，bot_可替换，推荐和Carpet配置同步，没有就留空\n!!b limit [number] 设置最大生成数量，默认为10\n!!b clear 清除设置的前缀\n!!b spawn [mini] [max] 批量召唤假人\n!!b drop [mini] [max] 批量控制丢出全部物品\n!!b kill [mini] [max] 批量下线假人\n[mini] [max] 是最小和最大的序号，差值不能超过10，不写默认为1-10\n```\n\n",
     "readme_url": "https://raw.githubusercontent.com/Walkersifolia/FastBotSpawn/master/README.md"
   }
 }

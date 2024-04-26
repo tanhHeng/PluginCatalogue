@@ -1,9 +1,42 @@
 {
   "schema_version": 8,
   "id": "fbs_plugin",
-  "latest_version": "1.1.1",
+  "latest_version": "1.1.2",
   "latest_version_index": 0,
   "releases": [
+    {
+      "url": "https://github.com/Walkersifolia/FastBotSpawn/releases/tag/1.1.2",
+      "name": "v1.1.2",
+      "tag_name": "1.1.2",
+      "created_at": "2024-04-26T13:04:09Z",
+      "description": "更正了帮助文本\r\n\r\n我知道这个更新很水（）",
+      "prerelease": false,
+      "asset": {
+        "id": 164398052,
+        "name": "FastBotSpawn-v1.1.2.mcdr",
+        "size": 2582,
+        "download_count": 0,
+        "created_at": "2024-04-26T13:05:38Z",
+        "browser_download_url": "https://github.com/Walkersifolia/FastBotSpawn/releases/download/1.1.2/FastBotSpawn-v1.1.2.mcdr",
+        "hash_md5": "493424948f9a41203a1b6e7fa5be8f40",
+        "hash_sha256": "f6b7f8c0bef9b9890787da7245fc19a325931392b7d273e66ae8c59626973146"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "fbs_plugin",
+        "name": "FastBotSpawn",
+        "version": "1.1.2",
+        "link": "https://github.com/Walkersifolia/FastBotSpawn",
+        "authors": [
+          "WalkerTian"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin with multiple functions"
+        }
+      }
+    },
     {
       "url": "https://github.com/Walkersifolia/FastBotSpawn/releases/tag/1.1.1",
       "name": "v1.1.1",
